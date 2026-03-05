@@ -1,0 +1,10 @@
+fastapi
+uvicorn[standard]
+pandas
+openai
+pydantic
+python-dotenv
+uuid
+pydantic-settings
+pytest
+pytest-asyncio

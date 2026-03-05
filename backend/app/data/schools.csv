@@ -1,0 +1,746 @@
+category,name,grade,address,website,rating,rank,notes,lat,lng
+elementary,Adam Beck Junior Public School,JK-06,"400 Scarborough Rd, Toronto, ON",http://schools.tdsb.on.ca/adambeck,7.1,808/3021,,43.6833666,-79.2889715
+elementary,Albion Heights Junior Middle School,JK-08,"45 Lynmont Road, Etobicoke, ON",http://schools.tdsb.on.ca/albionheights,4.1,2535/3021,,43.7312614,-79.5938031
+elementary,Alexander Muir/Gladstone Ave Jr and Sr Public School,JK-08,"108 Gladstone Ave, Toronto",n/a,7,888/3021,,43.6464573,-79.4293902
+elementary,Allenby Junior Public School,JK-06,"391 St Clements Ave, Toronto",http://schools.tdsb.on.ca/allenby,9,91/3021,,43.7096422,-79.4120585
+elementary,Annette Street Jr and Sr Public School,JK-08,"265 Annette Street, Toronto",http://www.annettestreetpublicschool.weebly.com/,7.6,516/3021,,43.6613668,-79.4731219
+elementary,Balmy Beach Community School,JK-06,"14 Pine Ave, Toronto",http://schools.tdsb.on.ca/balmybeach/,8.5,175/3021,,43.6764089,-79.2900597
+elementary,Beaches Alternative Jr School,JK-06,"50 Swanwick Ave, Toronto",http://schools.tdsb.on.ca/beachesalternative,N/A,N/A,,43.6828723,-79.2989559
+elementary,Beaumonde Heights Jr Middle School,JK-08,"70 Monterrey Drive, Etobicoke, ON",http://schools.tdsb.on.ca/beaumondeheights/,6.2,1444/3021,,43.7430679,-79.5748696
+elementary,Bedford Park Public School,JK-08,"81 Ranleigh Ave, Toronto",http://bedfordpark.ca/,9.1,77/3021,,43.7275030,-79.4000615
+elementary,Bennington Heights Elementary School,JK-06,"76 Bennington Heights, East York",http://schoolweb.tdsb.on.ca/benningtonheights/Home.aspx,9.0,91/3021,,43.6950078,-79.3710353
+elementary,Bessborough Drive Elementary/Middle School,JK-08,"211 Bessborough Drive, East York, ON",http://schoolweb.tdsb.on.ca/bessborough/Home.aspx,7.3,687/3021,,43.7067783,-79.3702703
+elementary,Beverley School,JK-08,"64 Baldwin St, Toronto",http://schools.tdsb.on.ca/beverley/,n/a,n/a,,43.6558169,-79.3957299
+elementary,Blake Street Jr Public School,JK-06,"21 Boultbee Ave, Toronto",http://schoolweb.tdsb.on.ca/blakestreet/Home.aspx,6.2,1444/3021,,43.6718404,-79.3382205
+elementary,Bloordale Middle School,06-08,"10 Toledo Rd, Etobicoke, ON",http://schoolweb.tdsb.on.ca/bloordale/Home.aspx,n/a,n/a,,43.6399318,-79.5727522
+elementary,Bloorlea Middle School,06-08,"4050 Bloor St West, Etobicoke, ON",http://schoolweb.tdsb.on.ca/bloorlea/Home.aspx,n/a,n/a,,43.6378453,-79.5553792
+elementary,Blythwood Jr Public School,JK-06,"2 Strathgowan Cres, Toronto",n/a,8.6,150/3021,,43.7199299,-79.3899443
+elementary,Boys Leadership Academ at the Elms,04-06,"45 Golfdown Dr, Etobicoke",n/a,n/a,n/a,,43.7217699,-79.5521733
+elementary,Braeburn Jr School,JK-05,"15 Tandridge Cres, Etobicoke",http://schoolweb.tdsb.on.ca/braeburn/Home.aspx,n/a,n/a,,43.7282579,-79.5486738
+elementary,Briarcrest Jr School,JK-05,"60 Wellesworth Dr, Etobicoke",http://schoolweb.tdsb.on.ca/briarcrest/Home.aspx,n/a,n/a,,43.6667533,-79.5805196
+elementary,Broadacres Junior School,JK-05,"45 Crendon Dr, Etobicoke",http://schoolweb.tdsb.on.ca/broadacres/Home.aspx,n/a,n/a,,43.6481001,-79.5712752
+elementary,Brock Public School,JK-08,"893 Margueretta Street, Toronto, ON",http://schoolweb.tdsb.on.ca/brock/Home.aspx,7.2,751/3021,,43.6609811,-79.4405350
+elementary,Brown Jr Public School,JK-06,"454 Avenue Rd, Toronto",http://brownschool.ca/,8.0,337/3021,,43.6848281,-79.4017976
+elementary,Bruce Jr Public School,JK-06,"51 Larchmount Ave, Toronto",http://schoolweb.tdsb.on.ca/bruce/Home.aspx,5.3,2037/3021,,43.6610456,-79.3332050
+elementary,Carleton Village Jr and Sr Sport Academy,JK-08,"315 Osler Street, Toronto",http://schoolweb.tdsb.on.ca/carletonvillage/Home.aspx,4.7,2322/3021,,43.6727374,-79.4601495
+elementary,Charles G Fraser Jr Public School,JK-06,"79 Manning Ave, Toronto",http://schoolweb.tdsb.on.ca/charlesgfraser/Home.aspx,6.7,1101/3021,,43.6487055,-79.4092074
+elementary,Chester Elementary School,JK-05,"115 Gowan Ave, East York",http://schoolweb.tdsb.on.ca/chester/Home.aspx,N/A,N/A,,43.6873937,-79.3517559
+elementary,Church Street Jr Public School,JK-06,"83 Alexander Street, Toronto",http://schools.tdsb.on.ca/churchstreet/,6.4,1300/3021,,43.6634131,-79.3791940
+elementary,City View Alternative Sr School,07-08,"38 Shirley Street, Toronto",http://schoolweb.tdsb.on.ca/cityview/Home.aspx,n/a,n/a,,43.6486893,-79.4368160
+elementary,Claireville Jr School,JK-05,"350 Silverstone Dr, Etobicoke",n/a,n/a,n/a,,43.7481494,-79.5984750
+elementary,Clinton Street Jr Public School,JK-06,"460 Manning Ave, Toronto",http://schoolweb.tdsb.on.ca/clintonstreet/Home.aspx,N/A,91/3021,,43.6579793,-79.4142901
+elementary,Cosburn Middle School,06-08,"520 Cosburn Ave, East York, ON",http://schoolweb.tdsb.on.ca/cosburn/Home.aspx,n/a,n/a,,43.6939378,-79.3311900
+elementary,Cottingham Jr Public School,JK-06,"85 Birch Ave, Toronto",n/a,10,1/3021,,43.6802032,-79.3955274
+elementary,Crescent Town Elementary School,JK-04,"4 Massey Sq, East York",http://schoolweb.tdsb.on.ca/crescenttown/Home.aspx,n/a,n/a,,43.6969527,-79.2917997
+elementary,DA Morrison Middle School,06-08,"271 Gledhill Ave, East York",http://schools.tdsb.on.ca/damorrison/,n/a,n/a,,43.6949778,-79.3114784
+elementary,da Vinci School,JK-06,"33 Robert Street, Toronto",http://davincischool.ca/,n/a,n/a,,43.6587523,-79.4015756
+elementary,David Hornell Jr School,JK-05,"32 Victoria St, Etobicoke",n/a,n/a,n/a,,43.6193222,-79.4889535
+elementary,Davisville Jr Public School,JK-06,"43 Millwood Rd, Toronto",http://schoolweb.tdsb.on.ca/davisville/Home.aspx,N/A,N/A,,43.6994238,-79.3959051
+elementary,Deer Park Jr and Sr Public School,JK-08,"23 Ferndale Ave, Toronto",http://schoolweb.tdsb.on.ca/deerpark/Home.aspx,8,337/3021,,43.6898214,-79.3912622
+elementary,Delta Alternative Sr School,07-08,"301 Montrose Ave, Toronto",http://schoolweb.tdsb.on.ca/delta/Home.aspx,n/a,n/a,,43.6586898,-79.4184092
+elementary,Dewson Street Jr Public School,JK-06,"65 Concord Ave, Toronto",n/a,5.4,1985/3021,,43.6560309,-79.4240098
+elementary,Diefenbaker Elementary School,JK-05,"175 Plains Rd, East York",n/a,n/a,n/a,,43.6948612,-79.3315671
+elementary,Dixon Grove Jr Middle Scohol,JK-08,"315 the Westway, Etobicoke",n/a,n/a,n/a,,43.6843701,-79.5556016
+elementary,Dovercourt Public School,JK-08,"228 Bartlett Ave, Toronto",http://schoolweb.tdsb.on.ca/dovercourt/Home.aspx,6.1,1525/3021,,43.6673099,-79.4363971
+elementary,Downtown Alternative School,JK-06,"85 Lower Jarvis, Toronto",http://schoolweb.tdsb.on.ca/downtownalt/Home.aspx,N/A,N/A,,43.6477380,-79.3706050
+elementary,Duke of Connaught Jr and Sr Public School,JK-08,"70 Woodfield Rd, Toronto",http://schoolweb.tdsb.on.ca/dukeconnaught/Home.aspx,5.8,1729/3021,,43.6660961,-79.3231894
+elementary,Dundas Jr Public School,JK-05,"935 Dundas St East, Toronto",http://schoolweb.tdsb.on.ca/dundas/Home.aspx,n/a,n/a,,43.6622457,-79.3484226
+elementary,Earl Beatty Jr and Sr Public School,JK-08,"55 Woodington Ave, Toronto",http://schoolweb.tdsb.on.ca/earlbeatty/Home.aspx,6.1,1525/3021,,43.6860901,-79.3208259
+elementary,Earl Grey Sr Public School,7.08,"100 Strathcona Ave, Toronto",http://schoolweb.tdsb.on.ca/earlgrey/Home.aspx,n/a,n/a,,43.6772315,-79.3403483
+elementary,Earl Haig Public School,JK-08,"15 Earl Haig Ave, Toronto",http://schoolweb.tdsb.on.ca/earlhaigps/Home.aspx,6.8,1026/3021,,43.6811417,-79.3213121
+elementary,Eatonville Jr School,JK-05,"15 Rossburn Dr, Etobicoke",http://schoolweb.tdsb.on.ca/eatonville/Home.aspx,n/a,n/a,,43.6382170,-79.5663673
+elementary,Eglinton Jr Public School,JK-06,"223 Eglinton Ave E, Toronto",http://schoolweb.tdsb.on.ca/eglinton/Home.aspx,n/a,n/a,,43.7078267,-79.3906807
+elementary,Elmbank Jr Middle Academy,JK-08,"10 Pittsboro Dr, Etobicoke",http://schoolweb.tdsb.on.ca/elmbank/Home.aspx,N/A,N/A,,43.7359156,-79.5899927
+elementary,Elmlea Jr School,JK-05,"50 Hadrian Dr, Etobicoke",n/a,n/a,n/a,,43.7162600,-79.5499607
+elementary,Equinox Holistic alternative School,JK-08,"151 Hiawatha Rd, Toronto",n/a,n/a,n/a,,43.6734173,-79.3228685
+elementary,Essex Jr and Sr Public School,JK-08,"50 Essex St, Toronto",http://essexpublicschool.com/,5.9,1664/3021,,43.6683811,-79.4224004
+elementary,Faywood Arts-Based Curriculum School,JK-08,"95 Faywood Blvd, Toronto",http://schools.tdsb.on.ca/faywood/,N/A,N/A,,43.7403257,-79.4466947
+elementary,Fern Ave Jr and Sr Public School,JK-08,"128 Fern Ave, Toronto",http://fernavenuepublicschool.blogspot.ca/,6.8,1026/3021,,43.6454818,-79.4460855
+elementary,Forest Hill Jr and Sr Public School,JK-08,"78 Dunloe Rd, Toronto",http://schoolweb.tdsb.on.ca/foresthillps/Home.aspx,N/A,N/A,,43.6954353,-79.4144580
+elementary,Frankland Community School,JK-06,"816 Logan Ave, Toronto",http://schoolweb.tdsb.on.ca/frankland/Home.aspx,7.7,476/3021,,43.6770128,-79.3506814
+elementary,Garden Ave Jr Public School,JK-06,"225 Garden Avenue, Toronto",http://schools.tdsb.on.ca/gardenave/,7.5,571/3021,,43.6430503,-79.4491152
+elementary,General Mercer Jr Public School,JK-06,"30 Turnberry Ave, Toronto",http://schoolweb.tdsb.on.ca/generalmercer/Home.aspx,2.4,2916/3021,,43.6794687,-79.4642465
+elementary,George R Gauld Jr School,JK-05,"200 Melrose St, Etobicoke",http://schoolweb.tdsb.on.ca/georgergauld/Home.aspx,N/A,N/A,,43.6207472,-79.4983149
+elementary,George Webster Elementary School,JK-05,"2 Cedarcrest Blvd, East York",http://schoolweb.tdsb.on.ca/georgewebster/Home.aspx,N/A,N/A,,43.7017781,-79.2990807
+elementary,Givins/Shaw Jr Public School,JK-06,"49 Givins St, Toronto",http://givinsshaw.com/,6.9,963/3021,,43.6461106,-79.4174919
+elementary,Gledhill Jr Public School,JK-06,"2 Gledhill Ave, Toronto",http://schoolweb.tdsb.on.ca/gledhill/Home.aspx,4.5/10,2491/3046,,43.6875978,-79.3098837
+elementary,Glen Ames Sr Public School,07-08,"18 Williamson Rd, Toronto",http://www.glenames.com/,N/A,N/A,,43.6745736,-79.2985441
+elementary,Glenview Sr Public School,07-08,"401 Rosewell Ave, Toronto",http://schoolweb.tdsb.on.ca/glenview/Home.aspx,N/A,N/A,,43.7204643,-79.4094673
+elementary,Gordon A Brown Middle School,06-08,"2800 St clair Ave E, East York, ON",http://schoolweb.tdsb.on.ca/gordonabrown/Home.aspx,N/A,N/A,,43.7078125,-79.3051517
+elementary,Greenholme Jr Middle School,JK-08,"10 Jamestown Cres, Etobicoke, ON",http://schoolweb.tdsb.on.ca/greenholme/Home.aspx,4.8/10,2361/3046,,43.7348108,-79.5829514
+elementary,High Park Jr School,JK-08,"265 Annette St, Toronto",http://www.hpalt.org/,8.2,262/3021,,43.6613668,-79.4731219
+elementary,Highfield Jr School,JK-06,"85 Mount Olive Dr, Etobicoke",http://schoolweb.tdsb.on.ca/highfield/Home.aspx,N/A,N/A,,43.7453464,-79.5892723
+elementary,Hillcrest Community School,JK-06,"44 Hilton Ave, Toronto",n/a,8.8,118/3021,,43.6795030,-79.4162153
+elementary,Hilltop Middle School,06-08,"35 Trehorne Dr, Etobicoke, ON",http://schoolweb.tdsb.on.ca/hilltop/Home.aspx,N/A,N/A,,43.6884916,-79.5320277
+elementary,Hodgson Sr Public School,07-08,"282 Davisville Ave, Toronto",http://schoolweb.tdsb.on.ca/hodgson/Home.aspx,N/A,N/A,,43.7012488,-79.3849964
+elementary,Hollycrest Middle School,04-08,"630 Renforth Dr, Etibocoke, ON",http://schoolweb.tdsb.on.ca/hollycrest/Home.aspx,N/A,N/A,,,
+elementary,Horizon Senior School,07-08,"570 Shaw St, Toronto",http://horizonalternative.ca/,N/A,N/A,,43.6575014,-79.4219476
+elementary,Howard Jr Public School,JK-06,"30 Marmaduke St, Toronto",http://schoolweb.tdsb.on.ca/howard/Home.aspx,8.0,337/3021,,43.6507231,-79.4519734
+elementary,Humber Valley Village Jr Middle School,JK-08,"65 Hartfield Rd, Etobicoke, ON",http://schoolweb.tdsb.on.ca/humbervalley/Home.aspx,n/a,n/a,,43.6654147,-79.5265012
+elementary,Humberwood Downs Jr Middle Academy,JK-08,"850 Humberwood Blvd, Etobicoke",http://schools.tdsb.on.ca/humberwood/,n/a,n/a,,43.7282643,-79.6195442
+elementary,Huron Street Jr Public School,JK-06,"541 Huron St, Toronto",http://schoolweb.tdsb.on.ca/huronstreet/Home.aspx,7.2,751/3021,,,
+elementary,Indian Road Crescent Jr Public School,JK-06,"285 Indian Road Cres, Toronto",http://schoolweb.tdsb.on.ca/indianroad/Home.aspx,9.3,53/3021,,,
+elementary,Island Public Natural Science School,JK-06,"30 Centre Island Park, Toronto",http://schoolweb.tdsb.on.ca/island/Home.aspx,7.5,571/3021,,,
+elementary,Islington Jr Middle School,JK-08,"44 Cordova Ave, Etobicoke, ON",http://schools.tdsb.on.ca/islington/,n/a,n/a,,,
+elementary,Jackman Avenue Jr Public School,JK-06,"79 jackman Ave, Toronto",http://schoolweb.tdsb.on.ca/jackman/Home.aspx,7.9,387/3021,,,
+elementary,James S Bell Middle Sports Academy,JK-08,"90 Thirty First St, Etobicoke",http://schoolweb.tdsb.on.ca/jamessbell/Home.aspx,n/a,n/a,,43.5939822,-79.5304898
+elementary,Jesse Ketchum Jr and Sr Public School,JK-08,"61 Davenport Rd, Toronto",http://schoolweb.tdsb.on.ca/jesseketchum/Home.aspx,7.8,433/3021,,43.6728949,-79.3921441
+elementary,John D Parker Jr School,JK-05,"202 Mount Olive Dr, Etobicoke",n/a,N/A,N/A,,43.7534948,-79.5959381
+elementary,John English Jr Middle School,JK-08,"95 Mimico Ave, Etobicoke, ON",http://schoolweb.tdsb.on.ca/johnenglish/Home.aspx,n/a,n/a,,43.6118743,-79.4941436
+elementary,John Fisher Jr Public School,SK-06,"40 Erskine Ave, Toronto",n/a,N/A,N/A,,43.7119239,-79.3978739
+elementary,John G Althouse MIddle School,06-08,"130 Lloyd Manor Rd, Etobicoke, ON",http://schoolweb.tdsb.on.ca/johngalthouse/Home.aspx,N/A,N/A,,43.6679030,-79.5544031
+elementary,John Ross Robertson Jr Public School,JK-06,"130 Glengrove Ave W, Toronto",http://schoolweb.tdsb.on.ca/johnrossrobertson/Home.aspxhttp://www.johnwanless.ca/,n/a,n/a,,43.7187048,-79.4090241
+elementary,John Wanless Jr Public School,JK-06,"245 Fairlawn Ave, Toronto",http://www.johnwanless.ca/,n/a,n/a,,43.7288275,-79.4126062
+elementary,Karen Kain School of Arts,06-08,"60 Berl Ave, Etobicoke",http://kksa.ca/,N/A,N/A,,43.6313387,-79.5003755
+elementary,Keele St Public School,JK-06,"99 Mountview Ave, Toronto",http://schoolweb.tdsb.on.ca/keelestreet/Home.aspx,7.1,808/3021,,43.6572426,-79.4616040
+elementary,Kensington Community School,JK-06,"401 College Street, Toronto",n/a,N/A,N/A,,43.6563441,-79.4056335
+elementary,Kew Beach Jr Public School,JK-06,"101 Kippendavie Ave, Toronto",http://schoolweb.tdsb.on.ca/kewbeach/Home.aspx,8.4,209/3021,,43.6686728,-79.3028440
+elementary,Kimberley Jr Public School,JK-06,"50 Swanwick Ave, Toronto",http://schoolweb.tdsb.on.ca/kimberley/Home.aspx,7.0,888/3021,,43.6828723,-79.2989559
+elementary,King Edward Jr and Sr Public School,JK-08,"112 Lippincott St, Toronto",http://schoolweb.tdsb.on.ca/kingedward/Home.aspx,6.8,1026/3021,,43.6580373,-79.4076004
+elementary,Kingsview Village Jr School,JK-05,"1 York Rd, Etobicoke",http://schoolweb.tdsb.on.ca/kingsview/Home.aspx,N/A,N/A,,43.6977905,-79.5504978
+elementary,Lambton Kingsway Jr Middle School,JK-08,"525 Prince Edward Dr, Etobicoke, ON",http://schoolweb.tdsb.on.ca/lambtonkingsway/Home.aspx,N/A,N/A,,43.6585636,-79.5087052
+elementary,Lanor Jr Middle School,JK-0,"8450 Lanor Ave, Etobicoke, ON",http://schoolweb.tdsb.on.ca/lanor/Home.aspx,N/A,N/A,,43.6104752,-79.5383412
+elementary,Leslieville Jr Public School,JK-06,"254 Leslie St, Toronto",http://schoolweb.tdsb.on.ca/leslieville/Home.aspx,6.5,1231/3021,,43.6676881,-79.3327569
+elementary,Lord Dufferin Jr and Sr Public School,JK-08,"350 Parliament St, Toronto",http://www.lorddufferin.blogspot.ca/,2.8,2853/3021,,43.6605377,-79.3672201
+elementary,Lord Lansdowne Jr and Sr Public School,JK-08,"33 Robert St, Toronto",http://schoolweb.tdsb.on.ca/lordlansdowne/Home.aspx,N/A,N/A,,43.6587523,-79.4015756
+elementary,Lucy McCormick Sr School,07-08,"2717 Dundas St West, Toronto",http://schoolweb.tdsb.on.ca/lucymccormick/Home.aspx,N/A,N/A,,43.6644565,-79.4601882
+elementary,Market Lane Jr and Sr Public School,JK-08,"246 The Esplanade, Toronto",http://schoolweb.tdsb.on.ca/marketlane/Home.aspx,3.7,2677/3021,,43.6502950,-79.3650918
+elementary,Maurice Cody Jr Public School,JK-06,"364 Belsize Dr, Toronto",http://schoolweb.tdsb.on.ca/mauricecody/Home.aspx,N/A,N/A,,43.7052664,-79.3780756
+elementary,McMurrich Jr Public School,JK-06,"115 Winona Dr, Toronto",n/a,7.3,687/3021,,43.6781455,-79.4305786
+elementary,Melody Village Jr School,JK-05,"520 Silverstone Dr, Etobicoke",n/a,N/A,N/A,,43.7379059,-79.5946179
+elementary,Mill Valley Jr School,JK-05,"411 Mill Rd, Etobicoke",http://schoolweb.tdsb.on.ca/millvalley/Home.aspx,N/A,N/A,,43.6442322,-79.5866367
+elementary,Millwood Jr School,JK-05,"222 Mill Rd, Etobicoke",http://schoolweb.tdsb.on.ca/millwood/Home.aspx,N/A,N/A,,43.6329592,-79.5770682
+elementary,Montrose Jr Public School,JK-06,"301 Montrose Ave, Toronto",http://schoolweb.tdsb.on.ca/montrose/Home.aspx,9.3,53/3021,,43.6586898,-79.4184092
+elementary,Morse Street Jr Public School,JK-06,"180 Carlaw Ave, Toronto",http://schoolweb.tdsb.on.ca/morsestreet/Home.aspx,7.1,808/3021,,43.6599876,-79.3403078
+elementary,Nelson Mandela Park Public School,JK-08,"440 Shuter St, Toronto",http://schoolweb.tdsb.on.ca/nelsonmandelapark/Home.aspx,3.9,2601/3021,,43.6584421,-79.3611543
+elementary,Niagara Street Jr Public School,JK-06,"222 Niagara St, Toronto",http://schoolweb.tdsb.on.ca/niagara/Home.aspx,7.4,626/3021,,43.6437985,-79.4081249
+elementary,Norseman Jr Middle School,JK-08,"105 Norseman St, Etobicoke, ON",http://schoolweb.tdsb.on.ca/norseman/Home.aspx,N/A,N/A,,43.6341938,-79.5162384
+elementary,North Kipling Jr Middle School,JK-08,"2 Rowntree Rd, Etobicoke, ON",http://schoolweb.tdsb.on.ca/northkipling/Home.aspx,N/A,N/A,,43.7526170,-79.5847285
+elementary,North Prep Junior Public School,JK-06,"1100 Spadina Rd, Toronto",http://schoolweb.tdsb.on.ca/northpreparatory/Home.aspx,N/A,N/A,,43.7058336,-79.4202501
+elementary,Northlea Elementary and Middle School,JK-08,"305 Rumsey Rd, East York, ON",http://www.northleaschool.ca/,N/A,N/A,,43.7145759,-79.3691150
+elementary,Northway Jr Public School,JK-06,"390 Kingston Rd, Toronto",http://schoolweb.tdsb.on.ca/norway/Home.aspx,6.7,1101/3021,,43.6760941,-79.3065919
+elementary,Ogden Jr Public School,JK-06,"33 Phoebe St, Toronto",http://schoolweb.tdsb.on.ca/ogden/WelcometoOgdenJuniorPublicSchool.aspx,7.6,516/3021,,43.6499598,-79.3954689
+elementary,Orde Street Jr Public School,JK-06,"18 orde St, Toronto",http://schoolweb.tdsb.on.ca/ordestreet/Home.aspx,7.1,808/3021,,43.6585407,-79.3920549
+elementary,Oriole Park Jr Public School,JK-06,"80 Braemar Ave, Toronto",http://schoolweb.tdsb.on.ca/oriolepark/Home.aspx,n/a,n/a,,43.7021502,-79.4094414
+elementary,Ossington Old Orchard Jr Public School,JK-06,"380 Ossington Ave, Toronto",http://myooops.com/,9.7,29/3021,,43.6525225,-79.4234434
+elementary,Palmerston Ave Jr Public School,JK-06,"734 Palmerston Ave, Toronto",http://schoolweb.tdsb.on.ca/palmerston/Home.aspx,8.5,175/3021,,43.6684010,-79.4157446
+elementary,Pape Avenue Jr Public School,JK-06,"220 Langley Ave, Toronto",http://schoolweb.tdsb.on.ca/papeavenue/Home.aspx,8.6,150/3021,,43.6705253,-79.3422906
+elementary,Park Lawn Jr Middle School,JK-08,"71 Ballacaine Dr, Etobicoke, ON",http://schoolweb.tdsb.on.ca/parklawn/Home.aspx,N/A,N/A,,43.6378702,-79.4963834
+elementary,Parkdale Jr and Sr Public School,JK-08,"78 Seaforth Ave, Toronto",http://schoolweb.tdsb.on.ca/parkdaleps/Home.aspx,2.6,2895/3021,,43.6436389,-79.4371449
+elementary,Parkfield Jr School,JK-05,"31 Redgrave Dr, Etobicoke",http://schoolweb.tdsb.on.ca/parkfield/Home.aspx,N/A,N/A,,43.6819873,-79.5695370
+elementary,Parkside Elementary School,JK-05,"401 Cedarvale Ave, East York",n/a,N/A,N/A,,43.6997962,-79.3166021
+elementary,Pauline Jr Public School,JK-06,"100 Pauline Ave, Toronto",n/a,7.0,888/3021,,43.6632365,-79.4397046
+elementary,Perth Avenue Jr Public School,JK-06,"14 Ruskin Ave, Toronto",http://schoolweb.tdsb.on.ca/perthavenue/Students.aspx,6.0,1590/3021,,43.6627933,-79.4527066
+elementary,Presteign Heights Elementary School,JK-05,"2570 St clair Ave, East York ON M4B 3C5",http://schoolweb.tdsb.on.ca/presteign/Home.aspx,N/A,N/A,,43.7058167,-79.3176561
+elementary,Princess Margaret Jr School,JK-05,"65 Tromley Dr, Etobicoke",http://schoolweb.tdsb.on.ca/princessmargaret/Home.aspx,N/A,N/A,,43.6710275,-79.5594052
+elementary,Queen Alexandra Middle School,06-07,"181 Broadview Ave, Toronto, ON",http://schoolweb.tdsb.on.ca/queenalexandra/Home.aspx,N/A,N/A,,43.6621267,-79.3497383
+elementary,Queen Victoria Public School,JK-06,"100 Close Ave, Toronto",http://schoolweb.tdsb.on.ca/queenvictoria/Home.aspx,7.1,808/3021,,43.6361457,-79.4345957
+elementary,Quest Alternative Sr School,07-08,"25 Bain Ave, Toronto",http://schoolweb.tdsb.on.ca/quest/Home.aspx,N/A,N/A,,43.6705361,-79.3514807
+elementary,RH McGregor Elementary School,JK-05,"555 Mortimer Ave, East York",http://schoolweb.tdsb.on.ca/rhmcgregor/Home.aspx,N/A,N/A,,43.6893721,-79.3271314
+elementary,Rawlinson Community School,JK-08,"231 Glenholme Ave, Toronto",http://schoolweb.tdsb.on.ca/rawlinson/Home.aspx,5.1,2146/3021,,43.6839442,-79.4395836
+elementary,Regal Rd Junior Public School,JK-06,"95 Regal Rd, Toronto",n/a,6.1,1525/3021,,43.6737211,-79.4402442
+elementary,Rivercrest Junior School,JK-05,"30 Harefield Dr, Etobicoke",n/a,N/A,N/A,,43.7293369,-79.5698557
+elementary,Rockcliffe MIddle School,06-08,"400 Rockcliffe Blvd, Toronto, ON",http://schoolweb.tdsb.on.ca/rockcliffe/Home.aspx,N/A,N/A,,43.6741227,-79.4896454
+elementary,Roden Public School,JK-08,"151 Hiawatha Rd, Toronto",http://schoolweb.tdsb.on.ca/roden/Home.aspx,5.0,2196/3021,,43.6734173,-79.3228685
+elementary,Rolph Road Elementary School,JK-06,"31 Rolph Rd, East York",http://rolphroadschool.com/,n/a,n/a,,43.7001704,-79.3656149
+elementary,Rose Avenue Jr Public School,JK-06,"675 Ontario St, Toronto",n/a,4.1,2535/3021,,43.6699674,-79.3723810
+elementary,Rosedale Jr Public School,JK-06,"22 South Drive, Toronto",n/a,10,1/3021,,43.6775258,-79.3815195
+elementary,Rosethorn Jr School,JK-05,"2 Remington Dr, Etobicoke",http://schoolweb.tdsb.on.ca/rosethorn/Home.aspx,n/a,N/A,,43.6595078,-79.5399355
+elementary,Runnymede Jr and Sr Public School,JK-08,"357 Runnymede Rd, Toronto",http://schoolweb.tdsb.on.ca/runnymede/Home.aspx,9.4,48/3021,,43.6558007,-79.4773817
+elementary,Ryerson Community School,JK-08,"96 Denison Ave, Toronto",http://schoolweb.tdsb.on.ca/ryersoncommunity/Home.aspx,3.8,2642/3021,,43.6510339,-79.4026910
+elementary,Second Street Jr Middle School,JK-08,"71 Second St, Etobicoke, ON",http://schoolweb.tdsb.on.ca/secondstreet/Home.aspx,n/a,n/a,,43.6039608,-79.4995295
+elementary,Secord Elementary School,JK-05,"101 Barrington Ave, East York",http://schoolweb.tdsb.on.ca/secord/Home.aspx,N/A,N/A,,43.6918209,-79.3011200
+elementary,Selwyn Elementary School,JK-05,"1 Selwyn Ave, East York",http://schoolweb.tdsb.on.ca/selwyn/OurSchool.aspx,N/A,N/A,,43.7086117,-79.3059798
+elementary,Seneca Hill School,JK-08,"580 Rathburn Rd, Etobicoke",http://schoolweb.tdsb.on.ca/seneca/Home.aspx,N/A,N/A,,43.6509930,-79.5824489
+elementary,Seventh Street Jr School,JK-05,"101 Seventh St, Etobicoke",http://schoolweb.tdsb.on.ca/seventhstreet/Home.aspx,N/A,N/A,,43.5996383,-79.5042118
+elementary,Shirley St Jr Public School,JK-06,"38 Shirley Street, Toronto",http://schoolweb.tdsb.on.ca/shirleystreet/Home.aspx,7.7,476/3021,,43.6486893,-79.4368160
+elementary,Sir Adam Beck Jr School,JK-05,"544 Horner Ave, Etobicoke",http://www.siradambeck.ca/,7.8/10,388/3046,,43.6015640,-79.5484481
+elementary,Smithfield Middle School,06-08,"175 Mount Olive, Etobicoke, ON",http://schoolweb.tdsb.on.ca/smithfield/Home.aspx,N/A,N/A,,43.7497345,-79.5963590
+elementary,Spectrum Alternative Sr School,07-08,"43 Millwood Rd, Toronto",http://schools.tdsb.on.ca/spectrum/Welcome_to_Spectrum.html,N/A,N/A,,43.6994238,-79.3959051
+elementary,Sprucecourt Public School,JK-07,"70 Spruce St, Toronto",http://schools.tdsb.on.ca/sprucecourt/,4.9,2233/3021,,43.6645516,-79.3637508
+elementary,St George’s Junior School,JK-05,"70 Princess Anne Cres, Etobicoke",http://schoolweb.tdsb.on.ca/stgeorges/Home.aspx,N/A,N/A,,43.6725877,-79.5412824
+elementary,Sunny View Jr and Sr Public School,JK-08,"450 Blythwood Rd, Toronto",http://schoolweb.tdsb.on.ca/sunnyview/Home.aspx,N/A,N/A,,43.7200528,-79.3874782
+elementary,Sunnylea Jr School,JK-05,"35 Glenroy Ave, Etobicoke",http://schoolweb.tdsb.on.ca/sunnylea/Home.aspx,N/A,N/A,,43.6422686,-79.5066318
+elementary,Swansea Jr and Sr Public School,JK-08,"207 Windermere Ave, Toronto",http://schoolweb.tdsb.on.ca/swansea/Home.aspx,8.3,47/3046231/3021,,43.6432464,-79.4765206
+elementary,The Elms Junior Middle School,JK-08,"45 Golfdown Dr, Etobicoke, ON",n/a,5.4/10,2052/3046,,43.7217699,-79.5521733
+elementary,The Grove Community School,JK-06,"108 Gladstone Avenue, Toronto",http://thegrovecommunityschool.ca/,N/A,N/A,,43.6464573,-79.4293902
+elementary,The Waterfront School,JK-08,"635 Queens Quay W, Toronto",http://schoolweb.tdsb.on.ca/thewaterfrontschool/Home.aspx,7.2,751/3021,,43.6354639,-79.3974511
+elementary,Thorncliffe Park Public School,JK-05,"80 Thorncliffe Park Dr, East York",http://schoolweb.tdsb.on.ca/thorncliffepark/Home.aspx,N/A,N/A,,43.7049382,-79.3443235
+elementary,Twentieth Street Jr School,JK-05,"3190 lake Shore Blvd W, Etobicoke",http://schoolweb.tdsb.on.ca/twentiethstreet/Home.aspx,N/A,N/A,,43.5983767,-79.5200200
+elementary,Valley Park Middle School,06-08,"130 Overlea Blvd, East York, ON",http://schoolweb.tdsb.on.ca/valleypark/Home.aspx,N/A,,,43.7105251,-79.3358381
+elementary,Valleyfield Jr School,JK-06,"35 Saskatoon Dr, Etobicoke",http://schoolweb.tdsb.on.ca/valleyfield/Home.aspx,N/A,2052/3046,,43.6938199,-79.5381266
+elementary,Victoria Park Elementary School,JK-05,"145 Tiago Ave, East York",http://schoolweb.tdsb.on.ca/victoriaparkes/Home.aspx,N/A,N/A,,43.7125154,-79.2982947
+elementary,Wedgewood Jr School,JK-05,"5 Swan Ave, Etobicoke",http://schoolweb.tdsb.on.ca/wedgewood/Home.aspx,N/A,N/A,,43.6448434,-79.5460462
+elementary,Wellesworth Jr School,JK-05,"225 Wellesworth Dr, Etobicoke",http://schoolweb.tdsb.on.ca/wellesworth/HomePage.aspx,N/A,N/A,,43.6560020,-79.5759778
+elementary,West Glen Junior School,JK-05,"47 Cowley Ave, Etobicoke",http://schoolweb.tdsb.on.ca/westglenjs/Home.aspx,N/A,N/A,,43.6501691,-79.5606603
+elementary,West Humber Jr Middle School,JK-08,"15 Delsing Dr, Etobicoke, ON",http://schoolweb.tdsb.on.ca/westhumber/Home.aspx,N/A,N/A,,43.7238917,-79.5792372
+elementary,West Preparatory Jr Public School,JK-06,"70 Ridge HIll Drive, toronto",n/a,N/A,N/A,,43.7028608,-79.4331910
+elementary,Westmount Jr School,JK-05,"95 Chapman Rd, Etobicoke",http://schoolweb.tdsb.on.ca/westmount/Home.aspx,N/A,N/A,,43.6886620,-79.5194060
+elementary,Westway Jr School,JK-05,"25 Poynter Dr, Etobicoke",http://schoolweb.tdsb.on.ca/westway/Home.aspx,N/A,N/A,,43.6904262,-79.5491285
+elementary,Westwood Middle School,06-08,"994 Carlaw Ave, East York, ON",http://schoolweb.tdsb.on.ca/westwoodms/Home.aspx,N/A,N/A,,43.6865358,-79.3514331
+elementary,Whitney Jr Public School,JK-06,"119 Rosedale Heights Dr, Toronto",http://schoolweb.tdsb.on.ca/whitney/Home.aspx,9.2,68/3021,,43.6871838,-79.3779677
+elementary,Wilkinson Jr Public School,JK-06,"53 Donlands Ave, Toronto",n/a,7.7,476/3021,,43.6822337,-79.3367589
+elementary,William Burgess Elementary School,JK-05,"100 Torrens Ave, East York",n/a,N/A,N/A,,43.6922407,-79.3479764
+elementary,William J McCordic School,JK-08,"45 Balfour Ave, Toronto",http://schoolweb.tdsb.on.ca/williamjmccordic/Home.aspx,N/A,N/A,,43.6902824,-79.2989017
+elementary,Williamson Rd Jr Public School,JK-06,"24 Williamson Rd, Toronto",http://schoolweb.tdsb.on.ca/williamsonroad/Home.aspx,7.3,687/3021,,43.6747983,-79.2975874
+elementary,Winchester Jr and Sr Public School,SK-08,"15 Prospect St, Toronto",http://schoolweb.tdsb.on.ca/winchester/Home.aspx,N/A,N/A,,43.6658863,-79.3707648
+elementary,Winona Drive Sr Public School,07-09,"101 Winona Dr, Toronto",http://schoolweb.tdsb.on.ca/winona/Home.aspx,N/A,N/A,,43.6773373,-79.4302417
+elementary,Withrow Avenue Jr Public School,JK-06,"25 Bain Ave, Toronto",http://schoolweb.tdsb.on.ca/withrow/Home.aspx,8.5,175/3021,,43.6705361,-79.3514807
+elementary,Etienne Brule Jr School,JK-05,"50 Cloverhill Rd, Etobicoke",http://schoolweb.tdsb.on.ca/etiennebrule/Home.aspx,N/A,N/A,,43.6353802,-79.4896234
+elementary,Avondale Alternative,JK-08,"171 Avondale Avenue, North York",http://www.tdsb.on.ca/FindYour/Schools.aspx?schno=3017,N/A,N/A,,43.7593892,-79.4007222
+elementary,Havergal College,JK-12,"1451 Avenue Rd Toronto, ON M5N2H9",http://www.havergal.on.ca,N/A,N/A,,43.7208338,-79.4149970
+elementary,Islamic Institute of Toronto,JK-8,"1630 NEILSON RD Toronto, ON M1X1S3",http://www.iitacademy.ca,N/A,N/A,,43.8187485,-79.2298213
+elementary,Northmount,JK-8,"26 Mallard Rd Toronto, ON M3B1S3",http://www.northmount.com,N/A,N/A,,43.7479340,-79.3498776
+elementary,Sathya Sai School of Toronto,JK-8,"505 Ellesmere Rd 4 Toronto, ON M1R4E5",http://www.sathyasaischool.ca/,N/A,N/A,,,
+elementary,Nile Academy,JK-12,"5 Blue Haven Crescent Toronto, ON M9M1W5",http://nileacademy.ca/,N/A,N/A,,43.7443481,-79.5575535
+elementary,Fleming,JK-08,"20 Littles Rd Toronto, ON M1B5B5",https://schoolweb.tdsb.on.ca/fleming,N/A,N/A,,43.8155134,-79.2040911
+elementary,Whitney Junior Public School,JK-06,"119 Rosedale Heights Dr Toronto, ON M4T1C7",http://schools.tdsb.on.ca/whitney/,9.2,68/3021,,43.6871838,-79.3779677
+elementary,Denlow Public School,JK-05,"50 Denlow Blvd Toronto, ON M3B1P7",https://schoolweb.tdsb.on.ca/Denlow,N/A,N.A,,43.7465951,-79.3641606
+elementary,John Ross Robertson,JK-06,"130 Glengrove Ave W Toronto, ON M4R1P2",https://schoolweb.tdsb.on.ca/JohnRossRobertson,N/A,N/A,,43.7187048,-79.4090241
+elementary,Beverly Glen Junior Public School,JK-06,"85 Beverly Glen Blvd Toronto, ON M1W1W4",https://schoolweb.tdsb.on.ca/BeverlyGlen,N/A,N/A,,43.7984984,-79.3232365
+elementary,Islamic Foundation,JK-06,"441 Nugget Ave Toronto, ON M1S5E",n/a,N/A,N/A,,43.7980431,-79.244258
+elementary,Iroquois Junior Public School,JK-06,"265 Chartland Blvd S Toronto, ON M1S2S6",https://www.tdsb.on.ca/Find-your/Schools/schno/4597,9.0/10,58/3046,,43.8022790,-79.2692537
+elementary,C D Farquharson Junior Public School,JK-06,"1965 Brimley Rd Toronto, ON M1S2B1",https://schoolweb.tdsb.on.ca/CDFarquharson,8.9/10,67/3046,,43.7848526,-79.2655173
+elementary,Chine Drive Public School,JK-08,"51 Chine Dr Toronto, ON M1M2K8",https://schoolweb.tdsb.on.ca/ChineDrive,8.9/10,67/3046,,43.7095482,-79.2414546
+elementary,David Lewis Public School,JK-08,"130 Fundy Bay Blvd Toronto, ON M1W3G1",https://schoolweb.tdsb.on.ca/DavidLewis,8.9/10,67/3046,,43.8091388,-79.3178003
+elementary,Bessborough Drive Elementary and Middle School,JK-08,"211 Bessborough Dr Toronto, ON M4G3K2",http://schools.tdsb.on.ca/bessborough/,8.8/10,84/3046,,43.7067783,-79.3702703
+elementary,Cedarvale Community School,JK-08,"145 Ava Rd Toronto, ON M6C1W4",https://www.tdsb.on.ca/Find-your/Schools/schno/6207,8.8/10,84/3046,,43.6958194,-79.4303748
+elementary,Josyf Cardinal Slipyj Separate School,K-08,"35 West Deane Park Dr Toronto, ON M9B2R5",http://josyfcardinalslipyj.tcdsb.org/,8.8/10,84/3046,,43.6592865,-79.5657050
+elementary,Port Royal Public School,JK-08,"408 Port Royal Trail Toronto, ON M1V4R1",https://www.tdsb.on.ca/Find-your/Schools/schno/4664,8.8./10,84/3046,,43.8245043,-79.2897362
+elementary,St Clement Separate School,JK-12,"4319 Bloor St Toronto, ON M9C2A2",http://stclement.tcdsb.org/,8.8/10,84/3046,,43.6319509,-79.5734982
+elementary,St Michael's Choir (Jr) School,JK-06,"66 Bond St Toronto, ON M5B1X2",https://smcs.on.ca/,8.8/10,84/3046,,43.6555376,-79.3776590
+elementary,Summit Heights Public School,JK-06,"139 Armour Blvd Toronto, ON M3H1M1",http://schools.tdsb.on.ca/summitheights/,8.8/10,84/3046,,43.7412704,-79.4294950
+elementary,Brookmill Boulevard Junior Public School,JK-06,"25 Brookmill Blvd Toronto, ON M1W2L5",https://www.tdsb.on.ca/Find-your/Schools/schno/4356,8.7/10,102/3046,,43.8009043,-79.3142987
+elementary,Milliken Public School,JK-08,"130 Port Royal Trail Toronto, ON M1V2T4",http://schools.tdsb.on.ca/milliken/,8.7/10,102/3046,,43.8168132,-79.2886414
+elementary,St Bonaventure Catholic School,JK-08,"1340 Leslie St Toronto, ON M3C2K9",http://stbonaventure.tcdsb.org/,8.7/10,102/3046,,43.7328392,-79.3565183
+elementary,Bellmere Junior Public School,JK-06,"470 Brimorton Dr Toronto, ON M1H2E6",https://www.tdsb.on.ca/Find-your/Schools/schno/4324,8.6/10,123/3046,,43.7717057,-79.2352713
+elementary,Centennial Road Junior Public School,JK-06,"271 Centennial Rd Toronto, ON M1C2A2",https://www.tdsb.on.ca/Find-your/Schools/schno/4384,8.6/10,123/3046,,43.7870045,-79.1497221
+elementary,Dunlace Public School,JK-06,"20 Dunlace Dr Toronto, ON M2L2S1",http://schools.tdsb.on.ca/dunlace/,8.6/10,123/3046,,43.7627524,-79.3698982
+elementary,Our Lady of Perpetual Help Separate School,JK-08,"1 1/2 Garfield Ave Toronto, ON M4T1E6",http://ourladyofperpetualhelp.tcdsb.org/,8.6/10,123/3046,,43.6869056,-79.3833715
+elementary,Bialik Hebrew Day School,JK-08,"2760 Bathurst St Toronto, ON M6B3A1",http://www.bialik.ca/,9.1,60/3037,,43.7106435,-79.4278988
+elementary,Courcelette Public School,JK-08,"100 Fallingbrook Rd Toronto, ON M1N2T6",http://schools.tdsb.on.ca/courcelette/,8.5/10,144/3046,,43.6791940,-79.2785593
+elementary,ÉÉC Notre-Dame-de-Grâce,,"59 Clement Road Toronto, ON M9R 1Y5",https://www.cscmonavenir.ca/ecole/ecole-secondaire-catholique-saint-frere-andre-toronto/ecole-elementaire-catholique-notre-dame-de-grace-toronto/,8.5/10,144/3046,,43.6790477,-79.5595054
+elementary,Armour Heights Public School,JK-06,"148 Wilson Ave Toronto, ON M5M3A5",https://www.tdsb.on.ca/Find-your/Schools/schno/3018,8.5/10,144/3046,,43.7407225,-79.4183695
+elementary,Kennedy Public School,JK-08,"20 Elmfield Crescent Toronto, ON M1V2Y6",http://schoolweb.tdsb.on.ca/Kennedy,8.5/10,144/3046,,43.8184617,-79.3085976
+elementary,ÉÉC Sainte-Marguerite-d'Youville,,"755, chemin Royal York Etobicoke, ON M8Y 2T3",https://smdy.cscmonavenir.ca/,8.4/10,163/2046,,,
+elementary,St Demetrius School,JK-08,"125 La Rose Ave Toronto, ON M9P1A6",https://www.tcdsb.org/schools/stdemetrius/Pages/default.aspx,8.4/10,163/2046,,43.6842383,-79.5205579
+elementary,Thomas L Wells Public School,,"69 Nightstar Road Toronto, ON M1X1V6",https://schoolweb.tdsb.on.ca/thomaswells,8.4/10,163/2046,,43.8242319,-79.2262373
+elementary,Father Serra Separate School,JK-08,"111 Sun Row Drive Toronto, ON M9P3J3",http://fatherserra.tcdsb.org/,8.3/10,194/3046,,43.6861114,-79.5367276
+elementary,Northlea Elementary and Middle School,JK-08,"305 Rumsey Road Toronto, ON M4G1R4",https://www.tdsb.on.ca/Find-your/Schools/schno/1442,8.3/10,194/3046,,43.7145759,-79.3691150
+elementary,Prince of Peace Catholic School,JK-08,"255 Alton Towers Cir Toronto, ON M1V4E7",https://www.tcdsb.org/schools/princeofpeace/Pages/default.aspx,8.3/10,194/3046,,43.8253459,-79.2788616
+elementary,St Henry Catholic School,JK-08,"100 Bamburgh Circle Toronto, ON M1W3R3",http://sthenry.tcdsb.org/,8.3/10,194/3046,,43.8137225,-79.3278846
+elementary,St Josaphat Separate School,JK-08,"55 Pelham Avenue Toronto, ON M6N1A5",http://stjosaphat.tcdsb.org/,8.3/10,194/3046,,43.6676339,-79.4551429
+elementary,Fairglen Junior Public School,JK-06,"2200 Pharmacy Ave Toronto, ON M1W1H8",https://schoolweb.tdsb.on.ca/Fairglen,8.2/10,213/3046,,43.7847707,-79.3222423
+elementary,Our Lady of Sorrows Separate School,JK-08,"32 Montgomery Rd Toronto, ON M8X1Z4",http://ourladyofsorrows.tcdsb.org/,8.2/10,213/3046,,43.6483791,-79.5196177
+elementary,Percy Williams Junior Public School,JK-06,"35 White Heather Blvd Toronto, ON M1V1P6",https://www.tdsb.on.ca/Find-your/Schools/schno/4701,8.2/10,213/3046,,43.8127146,-79.2655694
+elementary,Agincourt Junior Public School,JK-06,"29 Lockie Ave Toronto, ON M1S1N3",https://www.tdsb.on.ca/Find-your/Schools/schno/4312,8.1/10,250/3046,,43.7882757,-79.2807068
+elementary,North Bendale Junior Public School,JK-06,"29 Aveline Cres Toronto, ON M1H2P4",http://schools.tdsb.on.ca/northbendale/,8.1/10,250/3046,,43.7704414,-79.2477534
+elementary,ÉÉC Sainte-Madeleine,JK-06,"1 promenade Ness Toronto, ON M3A2W1",https://www.cscmonavenir.ca/,8.1/10,250/3046,,,
+elementary,Salaheddin Islamic,,"741 Kennedy Road Toronto, ON M1K2C6",n/a,8.1/10,250/3046,,43.7309348,-79.2659948
+elementary,St Mary of the Angels Separate School,JK-08,"1477 Dufferin St Toronto, ON M6H4C7",http://stmaryoftheangels.tcdsb.org/,8.1/10,250/3046,,43.6722804,-79.4400244
+elementary,The Divine Infant,JK-06,"30 Ingleton Boulevard Toronto, ON M1V3H7",http://thedivineinfant.tcdsb.org/,8.1/10,250/3046,,43.8217269,-79.2701691
+elementary,ÉÉC Georges-Étienne-Cartier,JK-06,"250 chemin Gainsborough Toronto, ON M4L3C6",https://gec.cscmonavenir.ca/,8.0/10,284/3046,,,
+elementary,Inglewood Heights Junior Public School,JK-06,"45 Dempster St Toronto, ON M1T2T6",http://schools.tdsb.on.ca/inglewoodhts/,8.0/10,284/3046,,43.7794302,-79.2922840
+elementary,École élémentaire Jeanne-Lajoie,JK-06,"150 Rd Carnforth Toronto, ON M4A2K7",https://csviamonde.ca/nos-ecoles/trouver-une-ecole/fiche-ecole/ecole-elementaire-jeanne-lajoie/,8.0/10,284/3046,,43.7361595,-79.3191666
+elementary,Mountview Alternative School Junior,JK-06,"99 Mountview Ave Toronto, ON M6P2L5",https://www.tdsb.on.ca/Find-your/Schools/schno/5342,8.0/10,284/3046,,43.6572426,-79.4616040
+elementary,St Andrews Public School,JK-08,"60 Brimorton Dr Toronto, ON M1P3Z1",https://www.tdsb.on.ca/Find-your/Schools/schno/4726,8.0/10,284/3046,,43.7672981,-79.2549806
+elementary,Alvin Curling Public School,JK-08,"50 Upper Rouge Trail Toronto, ON M1B6K4",https://www.tdsb.on.ca/Find-your/Schools/schno/4805,7.9/10,334/3046,,43.8083403,-79.1907064
+elementary,Bridlewood Junior Public School,JK-06,"60 Bridlewood Blvd Toronto, ON M1T1P7",https://www.tdsb.on.ca/Find-your/Schools/schno/4354,7.9/10,334/3046,,43.7813137,-79.3155213
+elementary,Khairul Ummah,,"45 Grenoble Dr Toronto, ON M3C1C4",N/A,7.9/10,334/3046,,43.7160331,-79.3309038
+elementary,Owen Public School,JK-05,"111 Owen Blvd Toronto, ON M2P1G6",https://schoolweb.tdsb.on.ca/Owen,7.9/10,334/3046,,43.7489227,-79.3926181
+elementary,Park Lawn Junior and Middle School,JK-08,"71 Ballacaine Drive Toronto, ON M8Y4B6",https://schoolweb.tdsb.on.ca/ParkLawn,7.9/10,334/3046,,43.6378702,-79.4963834
+elementary,Chartland Junior Public School,JK-06,"109 Chartland Blvd S Toronto, ON M1S2R7",http://www.tdsb.on.ca/FindYour/Schools.aspx?schno=4388,7.8/10,388/3046,,43.8002270,-79.2778767
+elementary,John English Junior Middle School,JK-08,"95 Mimico Avenue Toronto, ON M8V1R4",https://www.tdsb.on.ca/Find-your/Schools/schno/2077,7.8/10,388/3046,,43.6118743,-79.4941436
+elementary,Our Lady of Grace Separate School,JK-08,"121 Brimwood Boulevard Toronto, ON M1V1E5",http://ourladyofgrace.tcdsb.org/,7.8/10,388/3046,,43.8120125,-79.2749780
+elementary,St Brendan Catholic School,JK-08,"186 Centennial Rd Toronto, ON M1C1Z9",http://stbrendan.tcdsb.org/,7.8/10,388/3046,,43.7825656,-79.1494096
+elementary,St Brigid Catholic School,JK-08,"50 Woodmount Ave Toronto, ON M4C3X9",http://stbrigid.tcdsb.org/,7.8/10,388/3046,,43.6870495,-79.3167940
+elementary,St Lawrence Catholic School,JK-08,"2216 Lawrence Ave E Toronto, ON M1P2P9",http://stlawrence.tcdsb.org/,7.8/10,388/3046,,43.7487329,-79.2795291
+elementary,St Pius X Separate School,JK-08,"71 Jane Street Toronto, ON M6S3Y3",http://stpiusx.tcdsb.org/,7.8/10,388/3046,,43.6509824,-79.4847087
+elementary,St Sylvester Separate School,JK-08,"260 Silver Springs Blvd Toronto, ON M1V1S4",http://stsylvester.tcdsb.org/,7.8/10,388/3046,,43.8053692,-79.3025636
+elementary,Agnes Macphail Public School,JK-08,"112 Goldhawk Trail Toronto, ON M1V1W5",https://schoolweb.tdsb.on.ca/AgnesMacphail,7.7/10,446/3046,,43.8194003,-79.2786051
+elementary,Bendale Junior Public School,JK-06,"61 Benshire Dr Toronto, ON M1H1M4",http://www.tdsb.on.ca/FindYour/Schools.aspx?schno=4330,7.7/10,446/3046,,43.7623853,-79.2447038
+elementary,Humberwood Downs Junior Middle Academy,JK-08,"850 Humberwood Blvd Toronto, ON M9W7A6",http://schools.tdsb.on.ca/humberwood/,7.7/10,446/3046,,43.7282643,-79.6195442
+elementary,Morrish Public School,JK-08,"61 Canmore Blvd Toronto, ON M1C3T7",https://schoolweb.tdsb.on.ca/Morrish,7.7/10,446/3046,,43.7932524,-79.1792317
+elementary,North Preparatory Junior Public School,JK-06,"1100 Spadina Rd Toronto, ON M5N2M6",https://schoolweb.tdsb.on.ca/NorthPreparatory,7.7/10,446/3046,,43.7058336,-79.4202501
+elementary,Rippleton Public School,JK-05,"21 Rippleton Rd Toronto, ON M3B1H4",https://www.tdsb.on.ca/Find-your/Schools/schno/3234,7.7/10,446/3046,,43.7410866,-79.3590026
+elementary,Sts Cosmas & Damian,JK-08,"111 Danesbury Ave Toronto, ON M6B3L3",http://stscosmasanddamian.tcdsb.org/,7.7/10,446/3046,,43.7069310,-79.4448381
+elementary,White Haven Junior Public School,JK-08,"105 Invergordon Ave Toronto, ON M1S2Z1",https://schoolweb.tdsb.on.ca/WhiteHaven,7.7/10,446/3046,,43.7874776,-79.2476282
+elementary,Ledbury Park Elementary and Middle School,JK-08,"95 Falkirk Street Toronto, ON M5M4K1",http://schools.tdsb.on.ca/ledbury/,7.6/10,495/3046,,43.7274322,-79.4264287
+elementary,St. Gabriel Lalemant Catholic School,JK-08,"160 Crow Trail Toronto, ON M1B1Y3",http://stgabriellalemant.tcdsb.org/,7.6/10,495/3046,,43.8129576,-79.2268199
+elementary,Blessed Sacrament Catholic School,JK-08,"24 Bedford Park Ave Toronto, ON M5M1H9",http://blessedsacrament.tcdsb.org/,8.5,149/3037,,43.7276322,-79.4039273
+elementary,Churchill Heights Public School,JK-08,"749 Brimorton Dr Toronto, ON M1G2S4",https://schoolweb.tdsb.on.ca/ChurchillHeights,7.5/10,559/3046,,43.7729822,-79.2245148
+elementary,Holy Angels Separate School,JK-08,"65 Jutland Rd Toronto, ON M8Z2G6",http://holyangels.tcdsb.org/,7.5/10,559/3046,,43.6281487,-79.5176542
+elementary,St Ambrose Separate School,JK-08,"20 Coules Crt Toronto, ON M8W2N9",http://stambrose.tcdsb.org/,7.5/10,559/3046,,43.6084989,-79.5501965
+elementary,St Gregory Separate School,JK-08,"126 Rathburn Rd Toronto, ON M9B2K6",http://stgregory.tcdsb.org/,7.5/10,559/3046,,43.6602395,-79.5447418
+elementary,West Rouge Junior Public School,JK-06,"401 Friendship Ave Toronto, ON M1C2X8",https://www.tdsb.on.ca/Find-your/Schools/schno/4764,7.5/10,559/3046,,43.7955096,-79.1336432
+elementary,Banting and Best Public School,JK-08,"380 Goldhawk Trail Toronto, ON M1V4E7",https://schoolweb.tdsb.on.ca/banting,7.4/10,622/3046,,43.8267250,-79.2799491
+elementary,Blessed Pier Giorgio Frassati Catholic School,JK-08,"8 Seasons Dr Toronto, ON M1X1X4",N/A,7.4/10,622/3046,,43.8301208,-79.2326333
+elementary,St. Louis Separate School,JK-08,"11 Morgan Ave Toronto, ON M8Y2Z7",http://stlouis.tcdsb.org/,7.4/10,622/3046,,43.6259768,-79.5007793
+elementary,St Raphael Separate School,JK-08,"3 Gade Dr Toronto, ON M3M2K2",http://straphael.tcdsb.org/,7.4/10,622/3046,,43.7285966,-79.4885250
+elementary,Terry Fox Public School,JK-08,"185 Wintermute Blvd Toronto, ON M1W3M9",https://www.tdsb.on.ca/Find-your/Schools/schno/4733,7.4/10,622/3046,,43.8159633,-79.3186295
+elementary,West Humber Junior Middle School,JK-08,"15 Delsing Drive Toronto, ON M9W4S7",https://schoolweb.tdsb.on.ca/westhumber,7.4/10,622/3046,,43.7238917,-79.5792372
+elementary,William G Davis Junior Public School,JK-06,"128 East Ave Toronto, ON M1C3L6",https://www.tdsb.on.ca/Find-your/Schools/schno/4770,7.4/10,622/3046,,43.7853407,-79.1345928
+elementary,Hunter's Glen Junior Public School,JK-06,"16 Haileybury Dr Toronto, ON M1K4X5",https://schoolweb.tdsb.on.ca/huntersglen/,7.3/10,681/3046,,43.7450763,-79.2597851
+elementary,North Agincourt Junior Public School,JK-06,"60 Moran Rd Toronto, ON M1S2J3",https://schoolweb.tdsb.on.ca/northagincourt,7.3/10,681/3046,,43.7964142,-79.2759582
+elementary,Norway Junior Public School,JK-06,"390 Kingston Road Toronto, ON M4L1T9",https://schoolweb.tdsb.on.ca/norway,7.3/10,681/3046,,43.6760941,-79.3065919
+elementary,ÉÉC Saint-Jean-de-Lalande,JK-08,"500 Cercle Sandhurst Toronto, ON M1S3Y7",https://sjdl.cscmonavenir.ca/,7.3/10,681/3046,,,
+elementary,Sir Samuel B Steele Junior Public School,JK-06,"131 Huntsmill Boulevard Toronto, ON M1W2Y2",http://schools.tdsb.on.ca/sirsamuelbsteele/,7.3/10,681/3046,,43.8071207,-79.3274166
+elementary,Cornell Junior Public School,JK-06,"61 Holmfirth Terr Toronto, ON M1G1G8",https://schoolweb.tdsb.on.ca/Cornell,7.3/10,681/3046,,43.7589760,-79.2185684
+elementary,Emily Carr Public School,JK-08,"90 John Tabor Trail Toronto, ON M1B2V2",https://schoolweb.tdsb.on.ca/EmilyCarr,7.2/10,740/3046,,43.8050074,-79.2061293
+elementary,John A Leslie Public School,JK-08,"459 Midland Ave Toronto, ON M1N4A7",https://schoolweb.tdsb.on.ca/JohnALeslie,7.2/10,740/3046,,43.7144409,-79.2487441
+elementary,Mother Cabrini Catholic School,JK-08,"720 Renforth Dr Toronto, ON M9C2N9",http://mothercabrini.tcdsb.org/,7.2/10,740/3046,,43.6624404,-79.5846875
+elementary,St Anselm Catholic School,JK-08,"182 Bessorough Dr Toronto, ON M4G3J9",http://stanselm.tcdsb.org/,7.2/10,740/3046,,,
+elementary,St Denis Separate School,JK-08,"67 Balsam Ave Toronto, ON M4E3B8",http://stdenis.tcdsb.org/,7.2/10,740/3046,,43.6730482,-79.2896761
+elementary,St. Francis of Assisi Separate School,JK-08,"80 Clinton St Toronto, ON M6G2Y3",http://stfrancisofassisi.tcdsb.org/,7.2/10,740/3046,,43.6564996,-79.4144962
+elementary,St Jean de Brebeuf,JK-08,"101 Dean Park Rd Toronto, ON M1B2X2",http://stjeandebrebeuf.tcdsb.org/,7.2/10,740/3046,,43.8019016,-79.1736826
+elementary,St Matthias Separate School,JK-08,"101 Van Horne Ave Toronto, ON M2J2S8",http://stmatthias.tcdsb.org/,7.2/10,740/3046,,43.7844853,-79.3594769
+elementary,Anson Park Public School,JK-08,"30 MacDuff Cres Toronto, ON M1M1X5",https://www.tdsb.on.ca/Find-your/Schools/schno/4318,7.1/10,796/3046,,43.7273450,-79.2409955
+elementary,Blessed Margherita of Citta Castello,JK-08,"108 Spenvalley Dr Toronto, ON M3L1Z5",http://blessedmargherita.tcdsb.org/,5.1,2170/3037,,43.7438578,-79.5079122
+elementary,Brookside Public School,JK-08,"75 Oasis Blvd Toronto, ON M1X0A3",https://schoolweb.tdsb.on.ca/Brookside,7.1/10,796/3046,,43.8300911,-79.2335763
+elementary,Glamorgan Junior Public School,JK-06,"51 Antrim Crescent, Toronto, ON M1P4N4",https://schoolweb.tdsb.on.ca/glamorgan,7.1/10,796/3046,,43.7713248,-79.2897350
+elementary,Hawthorne II Bilingual Alternative Junior School,JK-06,"50 Essex St Toronto, ON M6G1T3",https://www.tdsb.on.ca/Find-your/Schools/schno/5362,7.1/10,796/3046,,43.6683811,-79.4224004
+elementary,Nativity of Our Lord Separate School,JK-08,"35 Saffron Cres Toronto, ON M9C3T8",http://nativityofourlord.tcdsb.org/,7.1/10,796/3046,,43.6530700,-79.5755225
+elementary,North Kipling Junior Middle School,JK-08,"2 Rowntree Road Toronto, ON M9V5C7",https://schoolweb.tdsb.on.ca/NorthKipling,7.1/10,796/3046,,43.7526170,-79.5847285
+elementary,St Robert Catholic School,JK-08,"70 BAINBRIDGE AVE Toronto, ON M3H2K2",http://strobert.tcdsb.org/,7.1/10,796/3046,,43.7498528,-79.4443750
+elementary,St Thomas Aquinas Separate School,JK-08,"636 Glenholme Ave Toronto, ON M6E3G9",http://stthomasaquinas.tcdsb.org,7.1/10,796/3046,,43.6952148,-79.4460708
+elementary,St Timothy Catholic School,JK-08,"25 Rochelle Crescent Toronto, ON M2J1Y3",https://www.tcdsb.org/schools/sttimothy/Pages/default.aspx,7.1/10,796/3046,,43.7753710,-79.3509219
+elementary,St Vincent de Paul Separate School,JK-08,"116 Fermanagh Ave Toronto, ON M6R1M2",http://stvincentdepaul.tcdsb.org/,7.1/10,796/3046,,43.6470099,-79.4481199
+elementary,The Holy Trinity Catholic School,JK-08,"6 Colonel Samuel Smith Park Drive Toronto, ON M8V4B7",N/A,N/A,N/A,,43.5970549,-79.5176196
+elementary,École élémentaire Charles-Sauriol,,"55 avenue Pelham Toronto, ON M6N1A5",https://csviamonde.ca/nos-ecoles/trouver-une-ecole/fiche-ecole/ecole-elementaire-charles-sauriol/,7.0/10,865/3046,,43.6676339,-79.4551429
+elementary,Heritage Park Public School,JK-08,"80 Old Finch Ave East Toronto, ON M1B5J2",http://schools.tdsb.on.ca/heritagepark/,7.0/10,865/3046,,43.8187736,-79.2150558
+elementary,Holy Rosary Catholic School,JK-08,"308 Tweedsmuir Avenue Toronto, ON M5P2Y1",http://holyrosary.tcdsb.org/,7.0/10,865/3046,,43.6849259,-79.4143140
+elementary,King George Junior Public School,JK-06,"25 Rexford Rd Toronto, ON M6S2M2",https://schoolweb.tdsb.on.ca/KingGeorge,7.0/10,865/3046,,43.6630620,-79.4867530
+elementary,Meadowvale Public School,JK-08,"761 Meadowvale Rd Toronto, ON M1C1T1",https://www.tdsb.on.ca/Find-your/Schools/schno/4660,7.0/10,865/3046,,43.7953913,-79.1640943
+elementary,Regent Heights Public School,JK-08,"555 Pharmacy Ave Toronto, ON M1L3H1",https://schoolweb.tdsb.on.ca/RegentHeights,7.0/10,865/3046,,43.7071425,-79.2884142
+elementary,St Edward Separate School,JK-08,"21 Eddfield Avenue Toronto, ON M2N2M5",http://stedward.tcdsb.org/,7.0/10,865/3046,,43.7602463,-79.4282125
+elementary,St John Separate School,JK-08,"780 Kingston Rd Toronto, ON M4E1R7",http://stjohn.tcdsb.org/,7.0/10,865/3046,,43.6805246,-79.2947235
+elementary,St Malachy Catholic School,JK-08,"80 Bennett Road Toronto, ON M1E3Y3",http://stmalachy.tcdsb.org/,7.0/10,865/3046,,43.7706637,-79.1665064
+elementary,Burrows Hall Junior Public School,JK-06,"151 Burrows Hall Blvd Toronto, ON M1B1M5",https://schoolweb.tdsb.on.ca/BurrowsHall,6.9/10,947/3046,,43.7927623,-79.2288111
+elementary,Canadian Martyrs Separate School,JK-06,"520 Plains Road Toronto, ON M4C2Z1",http://canadianmartyrs.tcdsb.org/,6.9/10,947/3046,,43.6983873,-79.3197596
+elementary,George P Mackie Junior Public School,JK-06,"60 Heathfield Dr Toronto, ON M1M3B1",https://schoolweb.tdsb.on.ca/georgemackie,6.9/10,947/3046,,43.7399971,-79.2120761
+elementary,Highland Creek Public School,JK-08,"1410 Military Trail Toronto, ON M1C1A8",https://www.tdsb.on.ca/Find-your/Schools/schno/4570,6.9/10,947/3046,,43.7835067,-79.1786235
+elementary,Islington Junior Middle School,JK-08,"44 Cordova Avenue Toronto, ON M9A2H5",http://schools.tdsb.on.ca/islington/,6.9/10,947/3046,,43.6473130,-79.5281109
+elementary,St Eugene Separate School,JK-08,"30 Westroyal Rd Toronto, ON M9P2C3",http://steugene.tcdsb.org/,6.9/10,947/3046,,43.6925051,-79.5375796
+elementary,St Joachim Separate School,JK-08,"3395 St Clair Ave E Toronto, ON M1L1W3",http://stjoachim.tcdsb.org/,6.9/10,947/3046,,43.7129505,-79.2752719
+elementary,St Norbert Separate School,JK-08,"60 Maniza Rd Toronto, ON M3K1R6",http://stnorbert.tcdsb.org/,6.9/10,947/3046,,43.7341663,-79.4644137
+elementary,Alexmuir Junior Public School,JK-06,"95 Alexmuir Blvd Toronto, ON M1V1H6",http://www.tdsb.on.ca/FindYour/Schools.aspx?schno=4316,6.8/10,1024/3046,,43.8091450,-79.2854422
+elementary,Danforth Gardens Public School,JK-08,"20 Santamonica Blvd Toronto, ON M1L4H4",https://schoolweb.tdsb.on.ca/DanforthGardens,6.8/10,1024/3046,,43.7081915,-79.2709001
+elementary,Harrison Public School,JK-06,"81 Harrison Rd Toronto, ON M2L1V9",https://schoolweb.tdsb.on.ca/harrison,6.8/10,1024/3046,,43.7576581,-79.3765656
+elementary,St Cecilia Separate School,JK-08,"355 Annette St Toronto, ON M6P1R3",http://stcecilia.tcdsb.org/,6.8/10,1024/3046,,43.6607422,-79.4745394
+elementary,Vradenburg Junior Public School,JK-06,"50 Vradenberg Dr Toronto, ON M1T1M6",https://schoolweb.tdsb.on.ca/Vradenburg,6.8/10,1024/3046,,43.7744193,-79.3084713
+elementary,Blessed John XXIII,JK-08,"175 Grenoble Dr Toronto, ON M3C3E7",http://blessedjohnxxiii.tcdsb.org/,6.7/10,1096/3046,,43.7125938,-79.3296635
+elementary,Cedarbrook Junior Public School,JK-08,"56 Nelson St Toronto, ON M1J2V6",https://schoolweb.tdsb.on.ca/Cedarbrook,6.7/10,1096/3046,,43.7473883,-79.2298897
+elementary,George B Little Public School,JK-08,"125 Orton Park Rd Toronto, ON M1G3G9",https://www.tdsb.on.ca/Find-your/Schools/schno/4504,6.7/10,1096/3046,,43.7710434,-79.2071388
+elementary,Glen Ravine Junior Public School,JK-06,"11 Gadsby Dr Toronto, ON M1K4V4",https://www.tdsb.on.ca/Find-your/Schools/schno/4522,6.7/10,1096/3046,,43.7376720,-79.2542362
+elementary,Humewood Community School,JK-08,"15 Cherrywood Ave Toronto, ON M6C2X4",https://schoolweb.tdsb.on.ca/humewood,6.7/10,1096/3046,,43.6868510,-79.4281109
+elementary,Huron Street Junior Public School,JK-06,"541 Huron St Toronto, ON M5R2R6",https://schoolweb.tdsb.on.ca/HuronStreet,6.7/10,1096/3046,,43.6708366,-79.4024724
+elementary,Lord Roberts Junior Public School,JK-06,"165 Lord Roberts Dr Toronto, ON M1K3W5",http://schools.tdsb.on.ca/lordroberts/,6.7/10,1096/3046,,43.7416516,-79.2637969
+elementary,McMurrich Junior Public School,JK-06,"115 Winona Dr Toronto, ON M6G3S8",https://www.tdsb.on.ca/Find-your/Schools/schno/5253,6.7/10,1096/3046,,43.6781455,-79.4305786
+elementary,St Ignatius of Loyola Separate School,JK-06,"2350 McCowan Road Toronto, ON M1S4B4",http://stignatiusofloyola.tcdsb.org/,6.7/10,1096/3046,,43.8032151,-79.2653481
+elementary,St Jerome Separate School,JK-08,"111 Sharpecroft Blvd Toronto, ON M3J1P5",http://stjerome.tcdsb.org/,6.7/10,1096/3046,,43.7488529,-79.4885425
+elementary,Birch Cliff Heights Public School,JK-08,"120 Highview Ave Toronto, ON M1N2J1",https://schoolweb.tdsb.on.ca/birchcliffhts,5.1,2170/3037,,43.7021122,-79.2600905
+elementary,Blantyre Public School,JK-08,"290 Blantyre Ave Toronto, ON M1N2S4",https://www.tdsb.on.ca/Find-your/Schools/schno/4348,6.6/10,1171/3046,,43.6849489,-79.2840922
+elementary,Earl Beatty Junior and Senior Public School,JK-08,"55 Woodington Ave Toronto, ON M4C3J6",https://schoolweb.tdsb.on.ca/EarlBeatty,6.6/10,1171/3046,,43.6860901,-79.3208259
+elementary,Guildwood Junior Public School,JK-06,"225 Livingston Rd Toronto, ON M1E1L8",https://www.tdsb.on.ca/Find-your/Schools/schno/4540,6.6/10,1171/3046,,43.7511041,-79.1992016
+elementary,Holy Cross Separate School,JK-08,"299AA Donlands Ave Toronto, ON M4J3R7",http://holycross.tcdsb.org/,6.6/10,1171/3046,,43.6895882,-79.3410424
+elementary,Joyce Public School,JK-08,"26 Joyce Pkwy Toronto, ON M6B2S9",https://www.tdsb.on.ca/Find-your/Schools/schno/3182,6.6/10,1171/3046,,43.7108667,-79.4641586
+elementary,Maple Leaf Public School,JK-08,"301 Culford Rd Toronto, ON M6L2V4",https://www.tdsb.on.ca/Find-your/Schools/schno/3194,6.6/10,1171/3046,,43.7146496,-79.4895457
+elementary,St Clare Separate School,JK-08,"124 Northcliffe Blvd Toronto, ON M6E3K4",http://stclare.tcdsb.org/,6.6/10,1171/3046,,43.6792947,-79.4416395
+elementary,St Isaac Jogues Separate School,JK-08,"1330 York Mills Rd Toronto, ON M3A1Z8",https://www.tcdsb.org/schools/stisaacjogues/Pages/default.aspx,6.6/10,1171/3046,,43.7629420,-79.3218525
+elementary,St Richard Separate School,JK-08,"960 Bellamy Rd N Toronto, ON M1H1H",http://strichard.tcdsb.org/,6.6/10,1171/3046,,,
+elementary,Venerable John Merlini School,JK-08,"123 Whitfield Ave Toronto, ON M9L1G9",https://www.tcdsb.org/schools/venerablejohnmerlini/Pages/default.aspx,6.6/10,1171/3046,,43.7563640,-79.5792419
+elementary,Berner Trail Junior Public School,JK-06,"120 Berner Trail Toronto, ON M1B1B3",https://www.tdsb.on.ca/Find-your/Schools/schno/4332,5.8,1756/3037,,43.8013204,-79.2217834
+elementary,Charlottetown Junior Public School,JK-06,"85 Charlottetown Blvd Toronto, ON M1C2C7",http://schools.tdsb.on.ca/charlottetown/,6.5/10,1246/3046,,43.7821085,-79.1421949
+elementary,Donwood Park Junior Public School,JK-06,"61 Dorcot Ave Toronto, ON M1P3K5",https://schoolweb.tdsb.on.ca/DonwoodPark,6.5/10,1246/3046,,43.7569145,-79.2625904
+elementary,North Bridlewood Junior Public School,JK-06,"50 Collingsbrook Blvd Toronto, ON M1W1L7",https://www.tdsb.on.ca/Find-your/Schools/schno/4690,6.5/10,1246/3046,,43.7894905,-79.3183781
+elementary,St Benedict Separate School,JK-08,"2202 Kipling Ave Toronto, ON M9W4K9",http://stbenedict.tcdsb.org/,6.5/10,1246/3046,,43.7231532,-79.5732862
+elementary,St Fidelis School,JK-08,"9 Bannerman St Toronto, ON M6L2S5",http://stfidelis.tcdsb.org/,6.5/10,1246/3046,,43.7173398,-79.4847187
+elementary,Elizabeth Simcoe Junior Public School,JK-06,"166 Sylvan Ave Toronto, ON M1E1A3",http://schools.tdsb.on.ca/elizabethsimcoe/,6.4/10,1322/3046,,43.7379530,-79.2062722
+elementary,Mason Road Junior Public School,JK-06,"78 Mason Rd Toronto, ON M1M3R2",https://www.tdsb.on.ca/Find-your/Schools/schno/4654,6.4/10,1322/3046,,43.7393348,-79.2254242
+elementary,École élémentaire Pierre-Elliott-Trudeau,JK-08,"65 rue Grace Toronto, ON M6J2S4",https://csviamonde.ca/nos-ecoles/trouver-une-ecole/fiche-ecole/ecole-elementaire-pierre-elliott-trudeau/,6.4/10,1322/3046,,,
+elementary,Roselands Junior Public School,JK-06,"990 Jane St Toronto, ON M6N4E2",https://www.tdsb.on.ca/Find-your/Schools/schno/6173,6.4/10,1322/3046,,43.6817452,-79.4991935
+elementary,ÉÉC Saint-Noël-Chabanel,JK-08,"1300 avenue Wilson Toronto, ON M3M1H5",https://snct.cscmonavenir.ca/,6.4/10,1322/3046,,43.7244880,-79.4945974
+elementary,St Agnes Catholic School,JK-08,"280 Otonabee Ave Toronto, ON M2M2T2",http://stagnes.tcdsb.org/,6.4/10,1322/3046,,43.7989601,-79.4026953
+elementary,St Leo Catholic School,JK-08,"165 Stanley Ave Toronto, ON M8V1P1",https://www.tcdsb.org/schools/stleo/Pages/default.aspx,6.4/10,1322/3046,,43.6141378,-79.4962965
+elementary,St Luigi Separate School,JK-08,"2 Ruskin Ave Toronto, ON M6P3P8",http://stluigi.tcdsb.org,6.4/10,1322/3046,,43.6629517,-79.4518867
+elementary,Cardinal Leger Catholic School,JK-08,"600 Morrish Road Toronto, ON M1C4Y1",http://cardinalleger.tcdsb.org/,6.3/10,1400/3046,,43.7932395,-79.1754290
+elementary,Dublin Heights Elementary and Middle School,JK-08,"100 Bainbridge Avenue Toronto, ON M3H2K2",https://schoolweb.tdsb.on.ca/DublinHeights,6.3/10,1400/3046,,43.7492728,-79.4470447
+elementary,École élémentaire Félix-Leclerc,JK-08,"50 promenade Celestine Toronto, ON M9R3N3",https://csviamonde.ca/nos-ecoles/trouver-une-ecole/fiche-ecole/ecole-elementaire-felix-leclerc/,n/a,n/a,,,
+elementary,James S Bell Junior Middle School,JK-08,"90 Thirty First Street Toronto, ON M8W3E9",https://www.tdsb.on.ca/Find-your/Schools/schno/2072,6.3/10,1400/3046,,43.5939822,-79.5304898
+elementary,École élémentaire La Mosaïque,JK-08,"80  Queensdale Toronto, ON M4J1Y3",https://csviamonde.ca/nos-ecoles/trouver-une-ecole/fiche-ecole/ecole-elementaire-la-mosaique/,6.3/10,1400/3046,,43.6874374,-79.3304624
+elementary,Lord Dufferin Junior and Senior Public School,JK-08,"350 Parliament St Toronto, ON M5A2Z7",https://schoolweb.tdsb.on.ca/LordDufferin,6.3/10,1400/3046,,43.6605377,-79.3672201
+elementary,Pleasant Public School,JK-08,"288 Pleasant Ave Toronto, ON M2R2R1",https://schoolweb.tdsb.on.ca/Pleasant,6.3/10,1400/3046,,43.7899905,-79.4346095
+elementary,Poplar Road Junior Public School,JK-06,"66 Dearham Wood Toronto, ON M1E1S4",https://www.tdsb.on.ca/Find-your/Schools/schno/4708,6.3/10,1400/3046,,43.7545196,-79.1877999
+elementary,Rockford Public School,JK-08,"60 Rockford Rd Toronto, ON M2R3A7",https://schoolweb.tdsb.on.ca/Rockford,6.3/10,1400/3046,,43.7861767,-79.4523824
+elementary,Shirley Street Junior Public School,JK-06,"38 Shirley St Toronto, ON M6K1S9",https://schoolweb.tdsb.on.ca/shirleystreet,6.3/10,1400/3046,,43.6486893,-79.4368160
+elementary,St Mark Separate School,JK-08,"45 Cloverhill Road Toronto, ON M8Y1T4",http://stmark.tcdsb.org/,6.3/10,1400/3046,,43.6343688,-79.4904999
+elementary,St Paschal Baylon Separate School,JK-08,"15 St Paschal Crt Toronto, ON M2M1X6",http://stpaschalbaylon.tcdsb.org/,6.3/10,1400/3046,,43.7921640,-79.4309395
+elementary,Warren Park Junior Public School,JK-06,"135 Varsity Rd Toronto, ON M6S4P4",https://www.tdsb.on.ca/Find-your/Schools/schno/6185,6.3/10,1400/3046,,43.6631661,-79.4992887
+elementary,École Gabrielle-Roy,JK-08,"14 Rue Pembroke Toronto, ON M5A2N7",https://csviamonde.ca/nos-ecoles/trouver-une-ecole/fiche-ecole/ecole-elementaire-gabrielle-roy/,6.2/10,1470/3046,,,
+elementary,St Agatha Separate School,JK-08,"49 Cathedral Bluffs Dr Toronto, ON M1M2T6",http://stagatha.tcdsb.org/,6.2/10,1470/3046,,43.7242036,-79.2300161
+elementary,St Dominic Savio Catholic School,JK-08,"50 Tideswell Blvd Toronto, ON M1B5X3",http://stdominicsavio.tcdsb.org/,6.2/10,1470/3046,,43.7982074,-79.1566563
+elementary,St Florence Separate School,JK-08,"101 Murison Blvd Toronto, ON M1B2L6",http://stflorence.tcdsb.org/,6.2/10,1470/3046,,43.7983731,-79.2069488
+elementary,St Monica Separate School,JK-08,"14 Broadway Ave Toronto, ON M4P1T4",http://stmonica.tcdsb.org/,6.2/10,1470/3046,,43.7103773,-79.3975873
+elementary,St Nicholas Catholic School,JK-08,"33 Amarillo Dr Toronto, ON M1J2P7",http://stnicholas.tcdsb.org/,6.2/10,1470/3046,,43.7477595,-79.2328842
+elementary,St. Andre CS,JK-08,"36 Yvonne Ave Toronto, ON M3L1C9",N/A,6.2/10,1470/3046,,43.7238976,-79.5180065
+elementary,George Peck Public School,JK-08,"1 Wayne Avenue Toronto, ON M1R1Y1",https://www.tdsb.on.ca/Find-your/Schools/schno/4516,6.1/10,1549/3046,,43.7385341,-79.2935303
+elementary,Heather Heights Junior Public School,JK-06,"80 Slan Ave Toronto, ON M1G3B5",https://www.tdsb.on.ca/Find-your/Schools/schno/4552,6.1/10,1549/3046,,43.7751854,-79.2147606
+elementary,Mary Shadd Public School,JK-08,"135 Hupfield Trail Toronto, ON M1B4R6",https://schoolweb.tdsb.on.ca/maryshadd,6.1/10,1549/3046,,43.8142837,-79.2184080
+elementary,Rose Avenue Junior Public School,JK-06,"675 Ontario St Toronto, ON M4X1N4",http://schools.tdsb.on.ca/roseave/ourschool.htm,6.1/10,1549/3046,,43.6699674,-79.3723810
+elementary,Second Street Junior Middle School,JK-08,"71 Second Street, Toronto, ON M8V2X4",https://www.tdsb.on.ca/Find-your/Schools/schno/2076,6.1/10,1549/3046,,43.6039608,-79.4995295
+elementary,Sprucecourt Junior Public School,JK-08,"70 Spruce St Toronto, ON M5A2J1",https://www.sprucecourt.ca/,6.1/10,1549/3046,,43.6645516,-79.3637508
+elementary,St John Vianney,JK-08,"105 Thistledown Blvd Toronto, ON M9V1J5",http://stjohnvianney.tcdsb.org/,6.1/10,1549/3046,,,
+elementary,St Maria Goretti Separate School,JK-08,"21 Kenmark Blvd Toronto, ON M1K3N8",http://stmariagoretti.tcdsb.org/,6.1/10,1549/3046,,43.7298169,-79.2658442
+elementary,St Victor Separate School,JK-08,"20 Bernadine St Toronto, ON M1P4M2",http://stvictor.tcdsb.org/,6.1/10,1549/3046,,43.7695528,-79.2593256
+elementary,Timberbank Junior Public School,JK-06,"170 Timberbank Blvd Toronto, ON M1W2A3",https://www.tdsb.on.ca/Find-your/Schools/schno/4740,6.1/10,1549/3046,,43.7914770,-79.3072206
+elementary,Transfiguration of our Lord Catholic School,JK-08,"55 Ludstone Dr Toronto, ON M9R2J2",http://transfiguration.tcdsb.org/,6.1/10,1549/3046,,43.6913084,-79.5629523
+elementary,Wexford Public School,JK-08,"1050 Pharmacy Ave Toronto, ON M1R2H1",https://www.tdsb.on.ca/Find-your/Schools/schno/4768,6.1/10,1549/3046,,43.7402551,-79.3046477
+elementary,Ellesmere-Statton Public School,JK-08,"739 Ellesmere Rd Toronto, ON M1P2W1",https://www.tdsb.on.ca/Find-your/Schools/schno/4468,6.0/10,1616/3046,,43.7633873,-79.2872826
+elementary,Gulfstream Public School,JK-08,"20 Gulfstream Rd Toronto, ON M9M1S3",https://www.tdsb.on.ca/Find-your/Schools/schno/3154,6.0/10,1616/3046,,43.7393656,-79.5423556
+elementary,Holy Spirit Separate School,JK-08,"3530 Sheppard Ave E Toronto, ON M1T3K7",http://holyspirit.tcdsb.org/,6.0/10,1616/3046,,43.7815444,-79.3026334
+elementary,ÉÉC Saint-Michel,JK-08,"29 Meadowvale Rd Toronto, ON M1C 1R7",N/A,6.0/10,1616/3046,,43.7776954,-79.1561387
+elementary,École élémentaire Scarborough Sud,JK-08,"255 Promenade Coronation Toronto, ON M1E2J3",N/A,6.0/10,1616/3046,,,
+elementary,Tom Longboat Junior Public School,JK-06,"37 Crow Trail Toronto, ON M1B1X6",https://www.tdsb.on.ca/Find-your/Schools/schno/4742,6.0/10,1616/3046,,43.8104297,-79.2312732
+elementary,Avondale Public School,JK-08,"171 Avondale Ave Toronto, ON M2N2V4",https://www.tdsb.on.ca/Find-your/Schools/schno/3134,5.9/10,1686/3046,,43.7593892,-79.4007222
+elementary,Glen Park Public School,JK-08,"101 Englemount Ave Toronto, ON M6B4L5",https://www.tdsb.on.ca/Find-your/Schools/schno/3138,5.9/10,1686/3046,,43.7134685,-79.4351637
+elementary,Holy Child Catholic School,JK-08,"850 Humberwood Boulevard Toronto, ON M9W7A6",http://holychild.tcdsb.org/,5.9/10,1686/3046,,43.7296739,-79.6187872
+elementary,Kew Beach Junior Public School,JK-06,"101 Kippendavie Ave Toronto, ON M4L3R3",https://www.tdsb.on.ca/Find-your/Schools/schno/5244,5.9/10,1686/3046,,43.6686728,-79.3028440
+elementary,Our Lady of Lourdes School,JK-08,"444 Sherbourne St Toronto, ON M4X1K2",http://ourladyoflourdes.tcdsb.org/,5.9/10,1686/3046,,43.6659287,-79.3749330
+elementary,Rouge Valley Public School,JK-08,"30 Durnford Rd Toronto, ON M1B4X3",https://www.tdsb.on.ca/Find-your/Schools/schno/4721,5.9/10,1686/3046,,43.7993016,-79.1516227
+elementary,St Margaret Catholic School,JK-08,"85 Carmichael Avenue Toronto, ON M5M2X1",http://stmargaret.tcdsb.org/,5.9/10,1686/3046,,43.7358267,-79.4265180
+elementary,St Maurice Separate School,JK-08,"45 Kingsview Blvd Toronto, ON M9R1T7",http://stmaurice.tcdsb.org/,5.9/10,1686/3046,,43.6978557,-79.5536116
+elementary,St Rose of Lima Catholic School,JK-08,"3220 Lawrence Ave E Toronto, ON M1H1A4",http://stroseoflima.tcdsb.org/,5.9/10,1686/3046,,43.7576942,-79.2408544
+elementary,St Simon Separate School,JK-08,"20 Wallasey Avenue Toronto, ON M9M1E2",http://stsimon.tcdsb.org/,5.9/10,1686/3046,,43.7191170,-79.5368802
+elementary,St Theresa Shrine Catholic School,JK-08,"2665 Kingston Rd Toronto, ON M1M1M2",http://sttheresashrine.tcdsb.org/,5.9/10,1686/3046,,43.7153621,-79.2420941
+elementary,St Thomas More Separate School,JK-08,"2300 Ellesmere Rd Toronto, ON M1G3M7",http://stthomasmore.tcdsb.org/,5.9/10,1686/3046,,43.7787816,-79.2248019
+elementary,St Elizabeth Catholic School,JK-08,"5 Redcar Ave Toronto, ON M9B1J8",http://stelizabeth.tcdsb.org/,5.8/10,1769/3046,,43.6346111,-79.5575315
+elementary,St Luke Separate School,JK-08,"319 Ossington Ave Toronto, ON M6J3A6",http://stluke.tcdsb.org/,5.8/10,1769/3046,,43.6516120,-79.4209445
+elementary,Annunciation Catholic School,JK-08,"65 Avonwick Gate Toronto, ON M3A2M8",http://annunciation.tcdsb.org/,5.7/10,1844/3046,,43.7532568,-79.3204762
+elementary,Blessed Kateri Tekakwitha Separate School,JK-08,"70 Margaret Ave Toronto, ON M2J4C5",https://www.tcdsb.org/_layouts/spsredirectwww.aspx?oldUrl=https%3A%2F%2Fwww%2Etcdsb%2Eorg%2Fschools%2Fblessedkateritekakwitha%2F,5.7/10,1844/3046,,43.7858795,-79.3380394
+elementary,Lanor Junior Middle School,JK-08,"450 Lanor Avenue Toronto, ON M8W2S1",https://www.tdsb.on.ca/Find-your/Schools/schno/2003,5.7/10,1844/3046,,43.6097556,-79.5445069
+elementary,Malvern Junior Public School,JK-06,"70 Mammoth Hall Trail Toronto, ON M1B1P6",https://www.tdsb.on.ca/Find-your/Schools/schno/4640,5.7/10,1844/3046,,43.7980697,-79.2334544
+elementary,Norman Cook Junior Public School,JK-06,"725 Danforth Rd Toronto, ON M1K1G4",https://www.tdsb.on.ca/Find-your/Schools/schno/4672,5.7/10,1844/3046,,43.7195042,-79.2575496
+elementary,Precious Blood Separate School,JK-08,"1035 Pharmacy Avenue Toronto, ON M1R2G8",http://preciousblood.tcdsb.org/,5.7/10,1844/3046,,43.7393331,-79.3021349
+elementary,St Boniface Separate School,JK-08,"20 Markanna Dr Toronto, ON M1M2J1",http://stboniface.tcdsb.org/,5.7/10,1844/3046,,43.7407074,-79.2198430
+elementary,St John the Evangelist Separate School,JK-08,"23 George St Toronto, ON M9N2B4",http://stjohntheevangelist.tcdsb.org/,5.7/10,1844/3046,,43.7029936,-79.5204770
+elementary,Woburn Junior Public School,JK-06,"40 Dormington Dr Toronto, ON M1G3N2",https://www.tdsb.on.ca/Find-your/Schools/schno/4798,5.7/10,1844/3046,,43.7794859,-79.2269194
+elementary,Brimwood Boulevard Junior Public School,JK-06,"151 Brimwood Blvd Toronto, ON M1V1E5",https://www.tdsb.on.ca/Find-your/Schools/schno/4355,5.6/10,1921/3046,,43.8112926,-79.2744242
+elementary,ÉÉC du Sacré-Coeur,JK-08,"98, rue Essex Toronto, ON M6G 1T3",http://sct.csdccs.edu.on.ca/,5.6/10,1921/3046,,,
+elementary,Gateway Public School,JK-06,"55 Gateway Blvd Toronto, ON M3C1B4",https://www.tdsb.on.ca/Find-your/Schools/schno/3129,5.6/10,1921/3046,,43.7117339,-79.3316653
+elementary,Holy Name Catholic School,JK-08,"690 Carlaw Ave Toronto, ON M4K3K9",http://holyname.tcdsb.org/,5.6/10,1921/3046,,43.6774418,-79.3472396
+elementary,Regina Mundi Separate School,JK-08,"70 Playfair Ave Toronto, ON M6B2P9",http://reginamundi.tcdsb.org/,5.6/10,1921/3046,,43.7110390,-79.4594629
+elementary,St Aidan Catholic School,JK-08,"3521 Finch Ave E Toronto, ON M1W2S2",http://staidan.tcdsb.org/,5.6/10,1921/3046,,43.7970263,-79.3092404
+elementary,St Augustine of Catholic School,JK-08,"98 Shoreham Dr Toronto, ON M3N1S9",https://www.tcdsb.org/schools/staugustine/Pages/default.aspx,5.6./10,1921/3046,,43.7685287,-79.5248797
+elementary,St Barnabas School,JK-08,"30 Washburn Way Toronto, ON M1B1H3",http://stbarnabas.tcdsb.org/,5.6/10,1921/3046,,43.7974743,-79.2290218
+elementary,St Francis Xavier Separate School,JK-08,"53 Gracefield Ave Toronto, ON M6L1L3",http://stfrancisxavier.tcdsb.org/,5.6/10,1921/3046,,43.7106008,-79.4830542
+elementary,St Marcellus Catholic School,JK-08,"15 Denfield St Toronto, ON M9R3H2",http://stmarcellus.tcdsb.org/,5.6/10,1921/3046,,43.6793980,-79.5541145
+elementary,Clairlea Public School,JK-08,"25 Rosalind Cres Toronto, ON M1L2X1",https://www.tdsb.on.ca/Find-your/Schools/schno/4402,5.5/10,1984/3046,,43.7164321,-79.2964576
+elementary,Faywood Arts-Based Curriculum School,JK-08,"95 Faywood Blvd Toronto, ON M3H2X5",https://www.tdsb.on.ca/Find-your/Schools/schno/3118,5.5/10,1984/3046,,43.7403257,-79.4466947
+elementary,James Culnan Separate School,JK-08,"605 Willard Ave Toronto, ON M6S3S1",http://jamesculnan.tcdsb.org/,5.5/10,1984/3046,,43.6610992,-79.4854342
+elementary,Ryerson Community School,JK-08,"96 Denison Ave Toronto, ON M5T1E4",https://www.tdsb.on.ca/Find-your/Schools/schno/5273,5.5/10,1984/3046,,43.6510339,-79.4026910
+elementary,Shaughnessy Public School,JK-08,"30 Shaughnessy Blvd Toronto, ON M2J1H5",https://www.tdsb.on.ca/Find-your/Schools/schno/3243,5.5/10,1984/3046,,43.7701787,-79.3517229
+elementary,St Conrad,JK-08,"610 Roding Street Toronto, ON M3M2A5",http://stconrad.tcdsb.org/,5.5/10,1984/3046,,43.7304507,-79.4927807
+elementary,St Jane Frances Catholic School,JK-08,"2745 Jane St Toronto, ON M3L2E8",http://stjanefrances.tcdsb.org/,5.5/10,1984/3046,,43.7422891,-79.5127744
+elementary,St Paul Separate School,JK-08,"80 Sackville St Toronto, ON M5A3E5",http://stpaul.tcdsb.org/,5.5/10,1984/3046,,43.6557494,-79.3618063
+elementary,Whole Child Alternative School,JK-08,"151 Hiawatha Rd Toronto, ON M4L2Y1",https://www.tdsb.on.ca/Find-your/Schools/schno/5903,5.5/19,1984/3046,,43.6734173,-79.3228685
+elementary,William G Miller Junior Public School,JK-08,"60 Bennett Road Toronto, ON M1E3Y3",https://www.tdsb.on.ca/Find-your/Schools/schno/4774,5.5/10,1984/3046,,43.7684756,-79.1655828
+elementary,William Tredway Junior Public School,JK-08,"112 Sedgemount Dr Toronto, ON M1H1X9",https://www.tredway.ca/,5.5/10,1984/3046,,43.7648061,-79.2353761
+elementary,Anson S Taylor Junior Public School,JK-06,"20 Placentia Blvd Toronto, ON M1S4C5",https://www.tdsb.on.ca/Find-your/Schools/schno/4320,5.4/10,2052/3046,,43.8043826,-79.2614000
+elementary,Bowmore Road Junior and Senior Public School,JK-08,"80 Bowmore Rd Toronto, ON M4L3J2",https://www.tdsb.on.ca/Find-your/Schools/schno/5300,6.6,1195/3037,,43.6760819,-79.3146401
+elementary,Queen Victoria Public School,JK-08,"100 Close Ave Toronto, ON M6K2V3",https://www.tdsb.on.ca/Find-your/Schools/schno/5267,5.4/10,2052/3046,,43.6361457,-79.4345957
+elementary,Roden Junior Public School,JK-08,"151 Hiawatha Road Toronto, ON M4L2Y1",https://www.tdsb.on.ca/Find-your/Schools/schno/5269,5.4/10,2052/3046,,43.6734173,-79.3228685
+elementary,The Elms Junior Middle School,JK-08,"45 Golfdown Drive Toronto, ON M9W2H8",https://www.tdsb.on.ca/Find-your/Schools/schno/2051,5.4/10,2052/3046,,43.7217699,-79.5521733
+elementary,Valleyfield Junior School,JK-08,"35 Saskatoon Dr Toronto, ON M9P2E8",https://www.tdsb.on.ca/Find-your/Schools/schno/2054,5.4/10,2052/3046,,43.6938199,-79.5381266
+elementary,Buchanan Public School,JK-08,"4 Bucannan Rd Toronto, ON M1R3V3",https://www.tdsb.on.ca/Find-your/Schools/schno/4360,5.3/10,2100/3046,,43.7523742,-79.3002567
+elementary,Highcastle Public School,JK-08,"370 Military Trail Toronto, ON M1E4E6",https://www.tdsb.on.ca/Find-your/Schools/schno/4564,5.3/10,2100/3046,,43.7867401,-79.2122921
+elementary,Msgr John Corrigan,JK-08,"100 Royalcrest Rd Toronto, ON M9V5B4",http://msgrjohncorrigan.tcdsb.org/,5.3/10,2100/3046,,43.7516653,-79.6051148
+elementary,Pope Paul Separate School,JK-08,"270 Laughton Ave Toronto, ON M6N2X5",https://www.tcdsb.org/Pages/URL-Not-Found.aspx,5.3/10,2100/3046,,43.6739094,-79.4577912
+elementary,Silver Springs Public School,JK-08,"222 Silver Springs Blvd Toronto, ON M1V1S4",https://www.tdsb.on.ca/Find-your/Schools/schno/4730,5.3/10,2100/3046,,43.8042379,-79.3024871
+elementary,St Antoine Daniel Separate School,JK-08,"160 Finch Avenue W Toronto, ON M2N2J2",http://stantoinedaniel.tcdsb.org/,5.3/10,2100/3046,,43.7776967,-79.4296703
+elementary,St Bede Catholic School,JK-08,"521 Sewells Rd Toronto, ON M1B5H3",http://stbede.tcdsb.org/,5.3/10,2100/3046,,43.8179301,-79.2063544
+elementary,Albion Heights Junior Middle School,JK-08,"45 Lynmont Road Toronto, ON M9V3W9",https://www.tdsb.on.ca/Find-your/Schools/schno/2083,5.2/10,2157/3046,,43.7312614,-79.5938031
+elementary,Edgewood Public School,JK-08,"230 Birkdale Rd Toronto, ON M1P3S4",https://www.tdsb.on.ca/Find-your/Schools/schno/4456,5.2/10,2157/3046,,43.7667232,-79.2665502
+elementary,Golf Road Junior Public School,JK-06,"730 Scarborough Golf Club Rd Toronto, ON M1G1H7",https://www.tdsb.on.ca/Find-your/Schools/schno/4528,5.2/10,2157/3046,,43.7636723,-79.2173624
+elementary,John McCrae Senior Public School,JK-08,"431 McCowan Rd Toronto, ON M1J1J1",https://www.tdsb.on.ca/Find-your/Schools/schno/4610,5.2/10,2157/3046,,43.7435262,-79.2398522
+elementary,Macklin Public School,JK-08,"136 Ingleton Boulevard Toronto, ON M1V2Y4",https://www.tdsb.on.ca/Find-your/Schools/schno/4650,5.2/10,2157/3046,,43.8219194,-79.2675035
+elementary,Our Lady of Fatima Catholic School,JK-08,"3176 St Clair Ave E Toronto, ON M1L1V6",http://ourladyoffatima.tcdsb.org/,5.2/10,2157/3046,,43.7102374,-79.2934991
+elementary,St John Bosco Catholic School,JK-08,"75 Holmesdale Road Toronto, ON M6E1Y2",http://stjohnbosco.tcdsb.org/,5.2/10,2157/3046,,43.6887892,-79.4504849
+elementary,Cordella Junior Public School,JK-06,"175 Cordella Ave Toronto, ON M6N2K1",https://www.tdsb.on.ca/Find-your/Schools/schno/6113,5.1/10,2210/3046,,43.6790915,-79.4874537
+elementary,École élémentaire Laure-Rièse,JK-08,"339 Circle Alton Towers Toronto, ON M1V5E3",https://csviamonde.ca/nos-ecoles/trouver-une-ecole/fiche-ecole/ecole-elementaire-laure-riese/,5.1/10,2210/3046,,,
+elementary,St Anthony Catholic School,JK-08,"130 Shanly Street Toronto, ON M6H1L9",http://stanthony.tcdsb.org/,5.1/10,2210/3046,,43.6637143,-79.4349468
+elementary,St Dunstan Separate School,JK-08,"14 Pharmacy Ave Toronto, ON M1L3E4",http://stdunstan.tcdsb.org/,5.1/10,2210/3046,,43.6934418,-79.2841979
+elementary,St Helen Separate School,JK-08,"1196 College St Toronto, ON M6H1B8",http://sthelen.tcdsb.org/,5.1/10,2210/3046,,43.6522965,-79.4355678
+elementary,St Martin de Porres Separate School,JK-08,"230 Morningside Ave Toronto, ON M1E3E1",http://stmartindeporres.tcdsb.org/,5.1/10,2210/3046,,43.7670828,-79.1868311
+elementary,Terraview-Willowfield Public School,JK-08,"95 Pachino Blvd Toronto, ON M1R4K1",https://www.tdsb.on.ca/Find-your/Schools/schno/4786,5.1/10,2210/3046,,43.7634546,-79.3082185
+elementary,Dorset Park Public School,JK-08,"28 Blaisdale Rd Toronto, ON M1P1V6",https://www.tdsb.on.ca/Find-your/Schools/schno/4444,5.0/10,2263/3046,,43.7500423,-79.2796148
+elementary,Harwood Public School,JK-08,"50 Leigh St Toronto, ON M6N3X3",https://www.tdsb.on.ca/Find-your/Schools/schno/6140,5.0/10,2263/3046,,43.6759367,-79.4789335
+elementary,St Gabriel Catholic School,JK-08,"396 Spring Garden Avenue Toronto, ON M2N3H5",http://stgabriel.tcdsb.org/,5.0/10,2263/3046,,43.7689305,-79.3906004
+elementary,St Kevin Separate School,JK-08,"15 Murray Glen Drive Toronto, ON M1R3J6",http://stkevin.tcdsb.org/,5.0/10,2263/3046,,43.7501379,-79.3059880
+elementary,St Matthew Separate School,JK-08,"18 Lavender Road Toronto, ON M6N2B5",http://stmatthew.tcdsb.org/,5.0/10,2263/3046,,43.6807783,-79.4679564
+elementary,St Wilfrid,JK-08,"1685 Finch Avenue W Toronto, ON M3J2G8",http://stwilfrid.tcdsb.org/,5.0/10,2263/3046,,43.7604456,-79.5032254
+elementary,Fairmount Public School,JK-08,"31 Sloley Rd Toronto, ON M1M1C7",https://www.tdsb.on.ca/Find-your/Schools/schno/4480,4.9/10,2315/3046,,43.7192840,-79.2305920
+elementary,Our Lady of Guadalupe Catholic,JK-08,"3105 Don Mills Rd Toronto, ON M2J3C2",http://ourladyofguadalupe.tcdsb.org/,4.9/10,2315/3046,,43.7899642,-79.3532149
+elementary,St Bernard Separate School,JK-08,"12 Duckworth St Toronto, ON M6M4W4",http://stbernard.tcdsb.org/,4.9/10,2315/3046,,43.7024247,-79.5004564
+elementary,St Charles Separate School,JK-08,"50 Claver Ave Toronto, ON M6B2W",http://stcharles.tcdsb.org/,4.9/10,2315/3046,,,
+elementary,Tam O'Shanter Junior Public School,JK-06,"21 King Henrys Blvd Toronto, ON M1T2V3",https://www.tdsb.on.ca/Find-your/Schools/schno/4734,4.9/10,2315/3046,,43.7852139,-79.2972309
+elementary,Walter Perry Junior Public School,JK-06,"45 Falmouth Ave Toronto, ON M1K4M7",https://www.tdsb.on.ca/Find-your/Schools/schno/4750,4.9/10,2315/3046,,43.7334731,-79.2513829
+elementary,Carleton Village Junior and Senior Public School,JK-08,"315 Osler St Toronto, ON M6N2Z4",https://www.tdsb.on.ca/Find-your/Schools/schno/5209,4.8/10,2361/3046,,43.6722468,-79.4603692
+elementary,Elmbank Junior Middle Academy,JK-08,"10 Pittsboro Dr Toronto, ON M9V3R4",https://www.tdsb.on.ca/Find-your/Schools/schno/2066,4.8/10,2361/3046,,43.7359156,-79.5899927
+elementary,Greenholme Junior Middle School,JK-08,"10 Jamestown Crescent, Toronto, ON M9V3M5",https://www.tdsb.on.ca/Find-your/Schools/schno/2065,4.8/10,2361/3046,,43.7348108,-79.5829514
+elementary,École publique Maison Montessori,JK-08,"116 Parkway Cornelius, Toronto, ON M6L2K5",https://csviamonde.ca/nos-ecoles/trouver-une-ecole/fiche-ecole/ecole-elementaire-mathieu-da-costa/,4.8/10,2361/3046,,43.7178752,-79.4757977
+elementary,St Andrew Separate School,JK-08,"2533 Kipling Ave Toronto, ON M9V3A8",http://standrew.tcdsb.org/,4.8/10,2361/3046,,43.7449407,-79.5819279
+elementary,St Jude Catholic School,JK-08,"3251 Weston Rd Toronto, ON M9M2T9",http://stjude.tcdsb.org/,4.8/10,2361/3046,,43.7403343,-79.5389179
+elementary,Alexander Stirling Public School,JK-08,"70 Fawcett Trail Toronto, ON M1B3A9",https://www.tdsb.on.ca/Find-your/Schools/schno/4639,4.7/10,2400/3046,,43.8117478,-79.2076773
+elementary,H A Halbert Junior Public School,JK-06,"31 McCowan Rd Toronto, ON M1M3L7",https://www.tdsb.on.ca/Find-your/Schools/schno/4546,4.7/10,2400/3046,,43.7273081,-79.2331558
+elementary,St Alphonsus Catholic School,JK-08,"60 Atlas Ave Toronto, ON M6C3N9",http://stalphonsus.tcdsb.org/,4.7/10,2400/3046,,43.6829106,-79.4321052
+elementary,St Bruno Catholic School,JK-08,"402 Melita Crescent Toronto, ON M6G3X6",http://stbruno.tcdsb.org/,4.7/10,2400/3046,,43.6722025,-79.4249372
+elementary,St Martha School,JK-08,"1865 Sheppard Ave W, Toronto, ON M3L1Y5",http://stmartha.tcdsb.org/,4.7/10,2400/3046,,43.7408300,-79.5022196
+elementary,Chief Dan George Public School,JK-08,"185 Generation Blvd Toronto, ON M1B2K5",https://www.tdsb.on.ca/Find-your/Schools/schno/4722,4.6/10,2449/3046,,43.8026292,-79.1643853
+elementary,Fairbank Middle School,JK-08,"2335 Dufferin St, Toronto, ON M6E3S5",https://www.tdsb.on.ca/Find-your/Schools/schno/6225,4.6/10,2449/3046,,43.6943719,-79.4487454
+elementary,Grey Owl Junior Public School,JK-06,"150 Wickson Trail Toronto, ON M1B1M4",https://www.tdsb.on.ca/Find-your/Schools/schno/4536,4.6/10,2449/3046,,43.8041163,-79.2134503
+elementary,St Francis de Sales School,JK-08,"333 Firgrove Cres Toronto, ON M3N1K9",http://stfrancisdesales.tcdsb.org/,4.6/10,2449/3046,,43.7543925,-79.5183573
+elementary,St Mary Elementary School,JK-08,"20 Portugal Sq Toronto, ON M6H1M4",http://stmary.tcdsb.org/,4.6/10,2449/3046,,43.6456164,-79.4047087
+elementary,General Crerar Public School,JK-08,"30 McGregor Rd Toronto, ON M1P1C8",https://www.tdsb.on.ca/Find-your/Schools/schno/4498,4.5/10,2491/3046,,43.7455956,-79.2795145
+elementary,Gledhill Junior Public School,JK-05,"2 Gledhill Ave Toronto, ON M4C5K6",https://www.tdsb.on.ca/Find-your/Schools/schno/5228,4.5/10,2491/3046,,43.6875978,-79.3098837
+elementary,Pauline Johnson Junior Public School,JK-06,"35 Dunmurray Blvd Toronto, ON M1T2K2",http://schools.tdsb.on.ca/paulinejohnson/,4.5/10,2491/3046,,43.7849155,-79.3034645
+elementary,Sacred Heart Separate School,JK-08,"75 Hupfield Trail Toronto, ON M1B4S3",https://www.tcdsb.org/schools/sacredheart/Pages/default.aspx,4.5/10,2491/3046,,43.8118934,-79.2207188
+elementary,J R Wilcox Community School,JK-08,"231 Ava Rd Toronto, ON M6C1X3",https://www.tdsb.on.ca/Find-your/Schools/schno/6152,4.4/10,2529/3046,,43.6945822,-79.4362566
+elementary,Lucy Maud Montgomery Public School,JK-08,"95 Murison Blvd Toronto, ON M1B2L6",https://www.tdsb.on.ca/Find-your/Schools/schno/4637,4.4/10,2529/3046,,43.7970979,-79.2089220
+elementary,Lynngate Junior Public School,JK-06,"129 Cass Ave Toronto, ON M1T2B5",https://www.tdsb.on.ca/Find-your/Schools/schno/4630,4.4/10,2529/3046,,43.7763045,-79.3005797
+elementary,St Catherine Separate School,JK-08,"30 Roanoke Rd Toronto, ON M3A1E9",http://stcatherine.tcdsb.org/,4.4/10,2529/3046,,43.7426663,-79.3247085
+elementary,Blessed Trinity Catholic School,JK-08,"3205 Bayview Ave Toronto, ON M2K1G3",http://blessedtrinity.tcdsb.org/,4.3/10,2560/3046,,43.7867562,-79.3913970
+elementary,Essex Junior and Senior Public School,JK-08,"50 Essex St East Building Toronto, ON M6G1T3",http://essexpublicschool.com/,4.3/10,2560/3046,,,
+elementary,General Brock Public School,JK-08,"140 Chestnut Cres, Toronto, ON M1L1Y5",https://www.tdsb.on.ca/find-your/schools/schno/4492,4.3/10,2560/3046,,43.7191105,-79.2751138
+elementary,Rawlinson Community School,JK-08,"231 Glenholme Ave Toronto, ON M6E3C7",https://www.tdsb.on.ca/Find-your/Schools/schno/6367,4.3/10,2560/3046,,43.6839442,-79.4395836
+elementary,St Gerald Separate School,JK-08,"200 Old Sheppard Ave, Toronto, ON M2J3L9",http://stgerald.tcdsb.org/,4.3/10,2560/3046,,43.7811245,-79.3266267
+elementary,St Nicholas of Bari Separate School,JK-08,"363 Rogers Rd Toronto, ON M6E1R6",http://stnicholasofbari.tcdsb.org/,4.3/10,2560/3046,,43.6819323,-79.4599864
+elementary,King Edward Junior and Senior Public School,JK-08,"112 Lippincott St Toronto, ON M5S2P1",https://www.tdsb.on.ca/Find-your/Schools/schno/5247,4.2/10,2594/3046,,43.6580373,-79.4076004
+elementary,St James Separate School,JK-08,"230 Humbercrest Blvd Toronto, ON M6S4L3",http://stjames.tcdsb.org/,4.2/10,2594/3046,,43.6647176,-79.4953411
+elementary,D'Arcy McGee Catholic School,JK-08,"20 Bansley Ave Toronto, ON M6E2A2",http://darcymcgee.tcdsb.org/,4.1/10,2622/3046,,43.6921284,-79.4433142
+elementary,Grenoble Public School,JK-06,"9 Grenoble Dr Toronto, ON M3C1C3",https://www.tdsb.on.ca/Find-your/Schools/schno/3152,4.1/10,2622/3046,,43.7151987,-79.3324694
+elementary,St Angela Catholic School,JK-08,"220 Mount Olive, Dr Toronto, ON M9V3Z5",http://stangela.tcdsb.org/,4.1/10,2622/3046,,,
+elementary,Cedar Drive Junior Public School,JK-06,"21 Gatesview Ave Toronto, ON M1J3G4",https://www.tdsb.on.ca/Find-your/Schools/schno/4376,4.0/10,2652/3046,,43.7464992,-79.2150818
+elementary,Military Trail Public School,JK-08,"701 Military Trail Toronto, ON M1E4P6",https://www.tdsb.on.ca/Find-your/Schools/schno/4670,4.0/10,2652/3046,,43.7895947,-79.1973060
+elementary,Portage Trail Jr Community School,JK-08,"100 Sidney Belsey Cres Toronto, ON M6M5H6",https://www.tdsb.on.ca/Find-your/Schools/schno/6195,4.0/10,2652/3046,,43.6925464,-79.5097077
+elementary,St Barbara Separate School,JK-08,"25 Janray Dr, Toronto, ON M1G1Y2",http://stbarbara.tcdsb.org/,4.0/10,2652/3046,,43.7619047,-79.2186440
+elementary,Warden Avenue Public School,JK-08,"644 Warden Ave Toronto, ON M1L3Z3",https://www.tdsb.on.ca/Find-your/Schools/schno/4756,4.0/10,2652/3046,,43.7000587,-79.2773939
+elementary,Willow Park Junior Public School,JK-06,"45 Windover Dr Toronto, ON M1G1P1",https://www.tdsb.on.ca/Find-your/Schools/schno/4792,4.0/10,2652/3046,,43.7610423,-79.2092102
+elementary,J G Workman Public School,JK-08,"487 Birchmount Rd Toronto, ON M1K1N7",https://www.tdsb.on.ca/Find-your/Schools/schno/4600,3.9/10,2680/3046,,43.7074995,-79.2664635
+elementary,Maryvale Public School,JK-08,"1325 Pharmacy Ave Toronto, ON M1R2J1",https://www.tdsb.on.ca/Find-your/Schools/schno/4648,3.9/10,2680/3046,,43.7547459,-79.3080771
+elementary,St Albert Separate School,JK-08,"1125 Midland Ave Toronto, ON M1K4H2",http://stalbert.tcdsb.org/,3.9/10,2680/3046,,43.7438256,-79.2608490
+elementary,St Elizabeth Seton Separate School,JK-08,"25 Havenview Rd Toronto, ON M1S3A4",http://stelizabethseton.tcdsb.org/,3.9/10,2680/3046,,43.7891015,-79.2464560
+elementary,St Ursula Separate School,JK-08,"215 Livingston Rd Toronto, ON M1E1L8",http://stursula.tcdsb.org/,3.9/10,2680/3046,,43.7498880,-79.1988112
+elementary,Immaculate Conception Separate School,JK-08,"23 Comay Rd, Toronto, ON M6M2K9",http://immaculateconception.tcdsb.org/,3.8/10,2711/3046,,43.6977098,-79.4778510
+elementary,Knob Hill Junior Public School,JK-06,"25 Seminole Ave Toronto, ON M1J1M8",https://www.tdsb.on.ca/Find-your/Schools/schno/4612,3.8/10,2711/3046,,43.7452981,-79.2497470
+elementary,Manhattan Park Junior Public School,JK-06,"90 Manhattan Dr Toronto, ON M1R3V8",https://www.tdsb.on.ca/Find-your/Schools/schno/4642,3.8/10,2711/3046,,43.7534663,-79.2953298
+elementary,Our Lady of the Assumption Separate School,JK-08,"125 Glenmount Ave Toronto, ON M6B3C2",http://ourladyoftheassumption.tcdsb.org/,3.8/10,2711/3046,,43.7164212,-79.4313034
+elementary,St Columba Catholic School,JK-08,"10 John Tabor Trail Toronto, ON M1B1M9",http://stcolumba.tcdsb.org/,3.8/10,2711/3046,,43.8064810,-79.2115456
+elementary,Galloway Road Public School,JK-08,"192 Galloway Rd Toronto, ON M1E1X2",https://www.tdsb.on.ca/Find-your/Schools/schno/4486,3.7/10,2735/3046,,43.7650046,-79.1965400
+elementary,Santa Maria Separate School,JK-08,"25 Avon Ave Toronto, ON M6N4X8",http://santamaria.tcdsb.org/,3.7/10,2735/3046,,43.6813295,-79.4776908
+elementary,St Margaret's Public School,JK-08,"235 Galloway Rd Toronto, ON M1E1X5",https://www.tdsb.on.ca/Find-your/Schools/schno/4728,3.7/10,2735/3046,,43.7684325,-79.1953253
+elementary,Stella Maris Separate School,JK-08,"31 Ascot Ave Toronto, ON M6E1E6",http://stellamaris.tcdsb.org/,3.7/10,2735/3046,,43.6792896,-79.4447627
+elementary,St Joseph Elementary School,JK-08,"176 Leslie St Toronto, ON M4M3C7",https://www.tcdsb.org/schools/stjoseph/Pages/default.aspx,3.6/10,2765/3046,,43.6658207,-79.3319558
+elementary,Our Lady of Victory Separate School,JK-08,"70 Guestville Ave Toronto, ON M6N4N3",http://ourladyofvictory.tcdsb.org/,3.4/10,2815/3046,,43.6835639,-79.4900087
+elementary,General Mercer Junior Public School,JK-06,"30 Turnberry Ave Toronto, ON M6N1P8",https://www.tdsb.on.ca/Find-your/Schools/schno/5277,3.3/10,2835/3046,,43.6794687,-79.4642465
+elementary,St Stephen Separate School,JK-08,"55 Golfdown Dr Toronto, ON M9W2H8",http://ststephen.tcdsb.org/,3.3/10,2835/3046,,43.7216216,-79.5542419
+elementary,Chester Le Junior Public School,JK-06,"201 Chester Le Blvd Toronto, ON M1W2K7",https://www.tdsb.on.ca/Find-your/Schools/schno/4389,3.2/10,2848/3046,,43.7987344,-79.3307145
+elementary,Joseph Brant Senior Public School,JK-08,"270 Manse Rd Toronto, ON M1E3V4",https://www.tdsb.on.ca/Find-your/Schools/schno/4611,3.2/10,2848/3046,,43.7669552,-79.1762837
+elementary,West Hill Public School,JK-08,"299 Morningside Ave Toronto, ON M1E3G1",https://www.tdsb.on.ca/Find-your/Schools/schno/4762,3.2/10,2848/3046,,43.7728030,-79.1860176
+elementary,Holy Family Catholic,JK-08,"141 Close Ave Toronto, ON M6K2V6",http://holyfamily.tcdsb.org/,3.0/10,2875/3046,,43.6385275,-79.4346849
+elementary,Parkdale Junior and Senior Public School,JK-08,"78 Seaforth Ave Toronto, ON M6K3L2",https://www.tdsb.on.ca/Find-your/Schools/schno/5262,2.8/10,2904/3046,,43.6436389,-79.4371449
+elementary,https://www.tdsb.on.ca/Find-your/Schools/schno/5262,JK-08,"20 Stong Crt, Toronto, ON M3N2X9",http://stcharlesgarnier.tcdsb.org/,2.8/10,2904/3046,,43.7627194,-79.5180516
+elementary,Epiphany of our Lord Catholic Academy,JK-08,"3150 Pharmacy Ave Toronto, ON M1W3J5",http://epiphanyofourlord.tcdsb.org/,2.5/10,2932/3046,,43.7990708,-79.3292627
+elementary,St Dorothy Catholic School,JK-08,"155 John Garland Blvd Toronto, ON M9V1N7",http://stdorothy.tcdsb.org/,2.5/10,2932/3046,,43.7314351,-79.5919612
+elementary,St Roch Separate School,JK-08,"174 Duncanwoods Dr Toronto, ON M9L2E3",http://stroch.tcdsb.org/,2.5/10,2932/3046,,43.7537587,-79.5666888
+elementary,Eastview Junior Public School,JK-06,"20 Waldock St Toronto, ON M1E2E5",https://www.tdsb.on.ca/Find-your/Schools/schno/4450,2.3/10,2951/3046,,43.7590060,-79.1912126
+elementary,Ionview Public School,JK-08,"90 Ionview Rd Toronto, ON M1K2Z9",https://www.tdsb.on.ca/Find-your/Schools/schno/4594,2.0/10,2966/3046,,43.7378772,-79.2747666
+elementary,R J Lang Elementary and Middle School,JK-08,"227 Drewry Ave, Toronto, ON M2M1E3",https://www.tdsb.on.ca/Find-your/Schools/schno/3233,1.9/10,2971/3046,,43.7838136,-79.4267564
+elementary,Highland Heights Junior Public School,JK-06,"35 Glendower Circt Toronto, ON M1T2Z3",https://www.tdsb.on.ca/Find-your/Schools/schno/4573,1.8/10,2976/3046,,43.7943010,-79.3002050
+elementary,First Nations School of Toronto,JK-12,"935 Dundas St E, Toronto, ON M4M1R4",https://www.tdsb.on.ca/Find-your/Schools/schno/5360,1.6/10,2985/3046,,43.6622457,-79.3484226
+elementary,F H Miller Junior Public School,JK-06,"300 Caledonia Rd Toronto, ON M6E4T5",https://www.tdsb.on.ca/Find-your/Schools/schno/6128,0.7/10,3011/3046,,43.6837538,-79.4590275
+elementary,St Sebastian,K-08,"717 Brock Ave Toronto, ON M6H3P1",http://stsebastian.tcdsb.org/,10/10,1/3046,,43.6623625,-79.4396902
+elementary,Africentric Alternative School,,,,5.3,2041/3037,,43.7454283,-79.4908554
+elementary,Agincourt Jr Public School,,,,6.8,1048/3037,,43.788404,-79.2836628
+elementary,Annunciation Catholic School,,,,7.5,577/3037,,43.7530806,-79.3235638
+elementary,Agnes Macphail,JK-08,"112 Goldhawk Trail, Toronto, Ontario",http://schoolweb.tdsb.on.ca/agnesmacphail/,8.9,108/3021,,43.8194003,-79.2786051
+elementary,Alexander Stirling,,"70 Fawcett Trail, Toronto, Ontario",http://schoolweb.tdsb.on.ca/alexanderstirling,3.1,2807/3021,,43.8117478,-79.2076773
+elementary,Alexander Stirling Public School,JK-08,"70 Fawcett Trail, Toronto, Ontario",https://schoolweb.tdsb.on.ca/alexanderstirling/,3.1,2807/3021,,43.8117478,-79.2076773
+elementary,Alexander Stirling,JK-08,"70 Fawcett Trail, Toronto, Ontario",http://schoolweb.tdsb.on.ca/alexanderstirling,3.1,2807/3021,,43.8117478,-79.2076773
+elementary,All Saints Catholic Elementary School,K-08,"1435 Royal York Road, Etobicoke, ON M9P 3A7",https://www.tcdsb.org/o/allsaints,6.4,1300/3021,,43.6854472,-79.5269473
+elementary,Alvin Curling Public School,JK-08,"50 Upper Rouge Trail, Toronto, Ontario",https://schoolweb.tdsb.on.ca/alvincurling,8.0,337/3021,,43.8083403,-79.1907064
+elementary,Annunciation Catholic School,JK-08,"65 Avonwick Gate, Toronto, Ontario",https://www.tcdsb.org/o/annunciation,6.3,1366/3021,,43.7532568,-79.3204762
+elementary,Anson S Taylor Junior Public School,JK-06,"20 Placentia Blvd, Toronto, Ontario",https://schoolweb.tdsb.on.ca/ansonstaylor,8.3,231/3021,,43.8043826,-79.2614000
+elementary,Armour Heights Public School,JK-08,"148 Wilson Ave, Toronto, Ontario",https://schoolweb.tdsb.on.ca/armourheights,7.5,571/3021,,43.7415078,-79.4198266
+elementary,Avondale Public School,JK-08,"171 Avondale Ave, Toronto, Ontario",https://schoolweb.tdsb.on.ca/avondale,6.8,1026/3021,,43.7593892,-79.4007222
+elementary,Avondale Alternative,JK-08,"171 Avondale Ave, Toronto, Ontario",https://schoolweb.tdsb.on.ca/avondale,10,1/3021,,43.7593892,-79.4007222
+elementary,Banting and Best Public School,JK-08,"380 Goldhawk Trail, Toronto, Ontario",https://schoolweb.tdsb.on.ca/banting,5.5,1934/3021,,43.8267250,-79.2799491
+elementary,Bellmere Junior Public School,JK-06,"470 Brimorton Dr, Toronto, Ontario",https://schoolweb.tdsb.on.ca/bellmere/,6.2,1444/3021,,43.7717057,-79.2352713
+elementary,Bendale Junior Public School,JK-06,"61 Benshire Dr, Toronto, Ontario",https://schoolweb.tdsb.on.ca/bendalejr/,6.9,963/3021,,43.7623853,-79.2447038
+elementary,Berner Trail Junior Public School,JK-06,"120 Berner Trail, Toronto, Ontario",https://www.tdsb.on.ca/Find-your/Schools/schno/4332,4.2,2505/3021,,43.8013204,-79.2217834
+elementary,Beverly Glen Junior Public School,JK-06,"85 Beverly Glen Blvd, Toronto, Ontario",https://schoolweb.tdsb.on.ca/beverlyglen/,8.4,209/3021,,43.7984984,-79.3232365
+elementary,Bialik Hebrew Day School,JK-08,"2760 Bathurst St, Toronto, Ontario",https://bialik.ca/,8.1,299/3021,,43.7106435,-79.4278988
+elementary,Birch Cliff Public School,JK-08,"1650 Kingston Rd, Toronto, Ontario",https://schoolweb.tdsb.on.ca/birchcliff,5.7,1807/3021,,43.6916230,-79.2650068
+elementary,Birch Cliff Heights Public School,JK-08,"120 Highview Ave, Toronto, Ontario",https://schoolweb.tdsb.on.ca/birchcliffhts,5.2,2081/3021,,43.7021122,-79.2600905
+elementary,Bishop Macdonell Catholic Elementary School,JK-06,"20 Brunel Crt, Toronto, Ontario",https://www.tcdsb.org/o/bishopmacdonell,7.2,751/3021,,43.6390684,-79.3945306
+elementary,Blantyre Public School,JK-08,"290 Blantyre Ave, Scarborough, ON, M1N 2S4",https://www.tdsb.on.ca/Find-your/Schools/schno/4348,5.6,1868/3021,,43.6849489,-79.2840922
+elementary,Blessed John XXIII Catholic School,JK-08,"175 Grenoble Dr, Toronto, Ontario",https://www.tcdsb.org/o/stjohnxxiii,6.2,1444/3021,,43.7125938,-79.3296635
+elementary,St. Kateri Tekakwitha Catholic School,JK-08,"70 Margaret Avenue, North York, ON M2J 4C5",https://www.tcdsb.org/o/stkateritekakwitha,6.3,1366/3021,,43.7858795,-79.3380394
+elementary,Blessed Margherita Catholic School,JK-08,"108 Spenvalley Dr, Toronto, Ontario",https://www.tcdsb.org/o/stmargherita,5.9,1664/3021,,43.7438578,-79.5079122
+elementary,Blessed Pier Giorgio Frassati Catholic School,JK-08,"8 Seasons Dr, Toronto, Ontario",https://www.tcdsb.org/o/blessedpiergiorgiofrassati,5.9,1664/3021,,43.8301208,-79.2326333
+elementary,Blessed Sacrament Catholic School,JK-08,"24 Bedford Park Ave, Toronto, Ontario",https://www.compareschoolrankings.org/school/on/elementary/690538,8.5,175/3021,,43.7276322,-79.4039273
+elementary,Blessed Trinity Catholic School,JK-08,"3205 Bayview Ave, Toronto, Ontario",https://www.tcdsb.org/o/blessedtrinity,3.7,2677/3021,,43.7867562,-79.3913970
+elementary,Bowmore Road Junior and Senior Public School,JK-08,"80 Bowmore Rd, Toronto, Ontario",https://schoolweb.tdsb.on.ca/bowmore,5.9,1664/3021,,43.6760819,-79.3146401
+elementary,Bridlewood Junior Public School,JK-06,"60 Bridlewood Blvd, Toronto, Ontario",https://www.tdsb.on.ca/Find-your/Schools/schno/4354,8.5,175/3021,,43.7813137,-79.3155213
+elementary,Brimwood Boulevard Jr Public School,JK-06,"151 Brimwood Blvd, Toronto, Ontario",https://schoolweb.tdsb.on.ca/brimwood,6.6,1165/3021,,43.8112926,-79.2744242
+elementary,Brookside Public School,JK-08,"75 Oasis Blvd, Toronto, Ontario",https://schoolweb.tdsb.on.ca/brookside,7.0,888/3021,,43.8300911,-79.2335763
+elementary,Buchanan Public School,JK-08,"4 Bucannan Rd, Toronto, Ontario",https://schoolweb.tdsb.on.ca/buchanan,4.0,2564/3021,,43.7523742,-79.3002567
+elementary,Burrows Hall Junior Public School,JK-06,"151 Burrows Hall Blvd, Toronto, Ontario",https://schoolweb.tdsb.on.ca/burrowshall,8.5,175/3021,,43.7927623,-79.2288111
+elementary,Charles E Webster Public School,JK-08,"place 1900 Keele St, Toronto, Ontario",https://schoolweb.tdsb.on.ca/cewebster,2.4,2916/3021,,,
+elementary,École élémentaire Charles-Sauriol,JK-08,"55 avenue Pelham, Toronto, Ontario",https://csviamonde.ca/nos-ecoles/trouver-une-ecole/fiche-ecole/ecole-elementaire-charles-sauriol?gad_source=1&gclid=Cj0KCQjwiuC2BhDSARIsALOVfBLX0Io3qKZSd6Cl-Bq9thrvd7MINVrJOE8zMGsp4tioH91S8ASyhL4aAlScEALw_wcB,9.7,29/3021,,43.6676339,-79.4551429
+elementary,D'Arcy McGee Catholic School,JK-08,"20 Bansley Ave, Toronto, Ontario",https://www.tcdsb.org/o/darcymcgee,3.2,2788/3021,,43.6921284,-79.4433142
+elementary,Gabrielle-Roy Elementary School,JK-08,"14 rue Pembroke, Toronto, Ontario",https://csviamonde.ca/nos-ecoles/trouver-une-ecole/fiche-ecole/ecole-elementaire-gabrielle-roy/,8.1,299/3021,,,
+elementary,Georges-Étienne-Cartier,,"250 chemin Gainsborough, Toronto, Ontario",http://gec.csdccs.edu.on.ca,7.4,626/3021,,,
+elementary,Georges-Étienne-Cartier Catholic School,JK-08,"250 chemin Gainsborough, Toronto, Ontario",https://george-etienne-cartier.ecolecatholique.ca/,7.4,626/3021,,,
+elementary,Harwood Public School,JK-08,"50 Leigh St, Toronto, Ontario",http://schoolweb.tdsb.on.ca/harwood,6.8,1026/3021,,43.6759367,-79.4789335
+elementary,Humewood Public School,JK-08,"15 Cherrywood Ave, Toronto, Ontario",http://schoolweb.tdsb.on.ca/humewood,6.8,1026/3021,,43.6868510,-79.4281109
+elementary,Holy Rosary Catholic School,JK-08,"308 Tweedsmuir Ave, Toronto, Ontario",http://holyrosary.tcdsb.org,8.7,130/3021,,43.6849259,-79.4143140
+elementary,Holy Name Catholic School,JK-08,"690 Carlaw Ave, Toronto, Ontario",http://holyname.tcdsb.org,7.3,687/3021,,43.6774418,-79.3472396
+elementary,Holy Family Catholic School,JK-08,"141 Close Ave, Toronto, Ontario",http://holyfamily.tcdsb.org,2.7,2878/3021,,43.6385275,-79.4346849
+elementary,Holy Cross Catholic School,JK-08,"299AA Donlands Ave, Toronto, Ontario",http://holycross.tcdsb.org,5.1,2146/3021,,43.6851475,-79.3392291
+elementary,Hawthorne II Bilingual Public School,JK-08,"50 Essex St, Toronto, Ontario",http://www.hawthorne2bilingual.com/,6.8,1026/3021,,43.6683811,-79.4224004
+elementary,Jean Lumb Public School,JK-08,"20 Brunel Ct, Toronto, Ontario",http://www.tdsb.on.ca,5.8,1729/3021,,43.6390684,-79.3945306
+elementary,Keelesdale Junior Public School,JK-06,"200 Bicknell Ave, Toronto, Ontario",https://www.tdsb.on.ca/Find-your/Schools/schno/6155,4.7,2322/3021,,43.6869783,-79.4770960
+elementary,Our Lady of Lourdes Catholic School,JK-08,"444 Sherbourne St, Toronto, Ontario",http://ourladyoflourdes.tcdsb.org,5.5,1934/3021,,43.6659287,-79.3749330
+elementary,Our Lady of Perpetual Help Catholic School,JK-08,"1 1/2 Garfield Ave, Toronto, Ontario",http://ourladyofperpetualhelp.tcdsb.org,9.8,25/3021,,43.6869056,-79.3833715
+elementary,Pierre-Elliott-Trudeau Elementary School,JK-06,"65 rue Grace, Toronto, Ontario",https://csviamonde.ca/nos-ecoles/trouver-une-ecole/fiche-ecole/ecole-elementaire-pierre-elliott-trudeau/,7.0,888/3021,,,
+elementary,St. Paul VI Catholic School,JK-08,"270 Laughton Ave, Toronto, Ontario",https://www.tcdsb.org/o/stpaulvi,8.2,262/3021,,43.6739094,-79.4577912
+elementary,Santa Maria Catholic School,JK-08,"25 Avon Ave, Toronto, Ontario",https://www.tcdsb.org/o/santamaria,3.3,2768/3021,,43.6813295,-79.4776908
+elementary,Stella Maris Catholic School,JK-08,"31 Ascot Ave, Toronto, Ontario",http://stellamaris.tcdsb.org,3.7,2677/3021,,43.6792896,-79.4447627
+elementary,St Vincent de Paul Catholic School,JK-08,"116 Fermanagh Ave, Toronto, Ontario",http://stvincentdepaul.tcdsb.org,8.6,150/3021,,43.6470099,-79.4481199
+elementary,St Sebastian Catholic School,JK-08,"717 Brock Ave, Toronto, Ontario",http://stsebastian.tcdsb.org,10,1/3021,,43.6623625,-79.4396902
+elementary,St Paul Catholic School,JK-08,"80 Sackville St, Toronto, Ontario",http://stpaul.tcdsb.org,8.7,130/3021,,43.6557494,-79.3618063
+elementary,St Nicholas of Bari Catholic School,JK-08,"363 Rogers Rd, Toronto, Ontario",http://stnicholasofbari.tcdsb.org,4.4,2432/3021,,43.6819323,-79.4599864
+elementary,St Michael's Choir Catholic School,JK-08,"66 Bond St, Toronto, Ontario",http://www.smcs.on.ca,10,1/3021,,43.6555376,-79.3776590
+elementary,St Michael Catholic School,JK-08,"50 George St S, Toronto, Ontario",http://stmichael.tcdsb.org,7.1,808/3021,,43.6478915,-79.3699556
+elementary,St Mary of the Angels Catholic School,JK-08,"1477 Dufferin St, Toronto, Ontario",http://stmaryoftheangels.tcdsb.org,7.7,476/3021,,43.6722804,-79.4400244
+secondary,A Y Jackson Secondary School,Grades 10-12,"50 Francine Dr, North York",http://www.ayjackson.ca/,7.9,77/689,,43.8047162,-79.3670028
+secondary,Agincourt Collegiate Institute,Grade 9-12,"2621 Midland Ave, Scarborough",http://schoolweb.tdsb.on.ca/agincourtci/Home.aspx,8.3,41/689,,43.7880042,-79.2794328
+secondary,Albert Campbell Collegiate Institute,Grades 9-12,"1550 Sandhurst Cir, Scarborough",http://schoolweb.tdsb.on.ca/albertcampbell/Home.aspx,7.0,210/689,,43.8100007,-79.2733572
+secondary,Alternative Scarborough Education,Grades 11-12,"60 Brimorton Dr, Scarborough",http://aseone.ca/moodle/,N/A,N/A,,43.7672981,-79.2549806
+secondary,Avondale Alternative Secondary School,Grades 9-12,"171 Avondale Ave, North York",http://schoolweb.tdsb.on.ca/avondalesa/Home.aspx,N/A,N/A,,43.7593892,-79.4007222
+secondary,Bendale Business and Technical Institute,Grades 9-12,"1555 Midland Ave, Scarborough",http://schoolweb.tdsb.on.ca/bendale/Home.aspx,N/A,N/A,,43.7540079,-79.2657340
+secondary,Birchmount Park Collegiate Institute,Grades 9-12,"3663 Danforth Ave, Scarborough",http://schools.tdsb.on.ca/birchmount/,5.2,496/689,,43.6978529,-79.2595991
+secondary,Bloor Collegiate Institute,Grades 9-12,"1141 Bloor St W, Toronto, ON",http://schoolweb.tdsb.on.ca/bloorci/Home.aspx,8.5,26/689,,43.6337272,-79.5702328
+secondary,Burnhamthorpe Collegiate Institute,Grades 9-12,"500 The East Mall, Etobicoke",http://www.burnhamthorpe.org/,N/A,N/A,,43.6486438,-79.5621498
+secondary,C W Jefferys Collegiate Institute,Grades 9-12,"340 Sentinel Rd, North York",http://schoolweb.tdsb.on.ca/cwjefferys/Home.aspx,3.9,606/689,,43.7583117,-79.5006458
+secondary,CALC Secondary School,Grades 9-12,"1 Danforth Ave, Toronto, ON",n/a,N/A,N/A,,43.6744818,-79.3599191
+secondary,Cedarbrae Collegiate Institute,Grades 9-12,"550 Markham Rd, Scarborough",http://schoolweb.tdsb.on.ca/cedarbrae/Home.aspx,5.4,471/689,,43.7564665,-79.2266924
+secondary,Central Etobicoke High School,Grades 9-12,"10 Denfield St, Etobicoke",http://schoolweb.tdsb.on.ca/centraletobicoke/Home.aspx,2.7,651/689,,43.6788565,-79.5564559
+secondary,Central Technical School,Grades 9-12,"725 Bathurst St, Toronto",http://schools.tdsb.on.ca/centraltech/,2.7,651/689,,43.6629180,-79.4088986
+secondary,Central Toronto Academy,Grades 9-12,"570 Shaw St, Toronto",http://schools.tdsb.on.ca/centraltorontoacademy/,7.0,210/689,,43.6575014,-79.4219476
+secondary,City School,Grades 11-12,"635 Queens Quay W, Toronto, ON",http://www.cityschooltoronto.com/,N/A,N/A,,43.6354639,-79.3974511
+secondary,Contact Alternative School,Grades 9-12,"132 Saint Patrick St, Floor 3rd, Toronto",http://schoolweb.tdsb.on.ca/contact/Home.aspx,N/A,N/A,,,
+secondary,Danforth Collegiate and Technical Institute,Grades 9-12,"800 Greenwood Ave, Toronto",http://danforthcti.com/,6,378/689,,43.6826286,-79.3343655
+secondary,David and Mary Thomson Collegiate Institute,Grades 9-12,"2740 Lawrence Ave E, Scarborough",http://www.thomsoncollegiate.ca/,N/A,N/A,,43.7529668,-79.2586186
+secondary,Delphi Secondary Alternative School,Grades 9-12,"109A Chartland Blvd S, Scarborough",http://schoolweb.tdsb.on.ca/delphi/Home.aspx,N/A,N/A,,43.8026069,-79.2702250
+secondary,Don Mills Collegiate Institute,Grades 9-12,"15 The Donway E, North York",http://schoolweb.tdsb.on.ca/donmillsci/Home.aspx,N/A,N/A,,43.7350384,-79.3388079
+secondary,Downsview Secondary School (Grades 09–12),Grades 9-12,"7 Hawksdale Rd, North York",http://schoolweb.tdsb.on.ca/downsview/Home.aspx,N/A,N/A,,43.7306438,-79.4784607
+secondary,Dr Norman Bethune Collegiate Institute,Grades 9-12,"200 Fundy Bay Blvd, Scarborough",http://www.bethuneci.com/,N/A,N/A,,43.8125172,-79.3195700
+secondary,Drewry Secondary School,Grades 9-12,"70 Drewry Ave, North York",http://schoolweb.tdsb.on.ca/drewry/Home.aspx,N/A,N/A,,43.7868801,-79.4212027
+secondary,Earl Haig Secondary School,Grades 9-12,"100 Princess Ave, North York",http://www.earlhaig.ca/main.php,N/A,N/A,,43.7698392,-79.4064240
+secondary,East York Alternative Secondary School,Grades 10-12,"670 Cosburn Ave, East York",http://www.eyalternative.com/,N/A,N/A,,43.6950468,-79.3250533
+secondary,East York Collegiate Institute,Grades 9-12,"650 Cosburn Ave, East York",http://schoolweb.tdsb.on.ca/eastyork/Home.aspx,N/A,N/A,,43.6955932,-79.3266619
+secondary,Eastdale Collegiate Institute,Grades 9-12,"701 Gerrard St E, Toronto",http://schoolweb.tdsb.on.ca/eastdaleci/Home.aspx,N/A,N/A,,43.6658213,-79.3487984
+secondary,Eastern Commerce Collegiate Institute,Grades 10-12,"16 Phin Ave, Toronto",http://schoolweb.tdsb.on.ca/easterncomm/Home.aspx,N/A,N/A,,43.6791507,-79.3366385
+secondary,Emery Collegiate Institute,Grades 9-12,"3395 Weston Rd, North York",http://schoolweb.tdsb.on.ca/emeryci/Home.aspx,N/A,N/A,,43.7488056,-79.5381634
+secondary,Etobicoke Collegiate Institute,Grades 9-12,"86 Montgomery Rd, Etobicoke",http://schoolweb.tdsb.on.ca/etobicokeci/Home.aspx,N/A,N/A,,43.6497841,-79.5225076
+secondary,Etobicoke School of the Arts,Grades 9-12,"675 Royal York Road, Toronto, ON",n/a,N/A,N/A,,43.6309101,-79.5038177
+secondary,Etobicoke Year Round Alternative Centre,Grades 9-11,"160 Silverhill Dr, Etobicoke",n/a,N/A,N/A,,43.6337421,-79.5512611
+secondary,Forest Hill Collegiate Institute,Grades 9-12,"730 Eglinton Ave W, Toronto",http://www.fhci.net/,N/A,N/A,,43.7030457,-79.4211484
+secondary,Frank Oke Secondary School,Grades 7-9,"500 Alliance Ave, York",n/a,N/A,N/A,,43.6777177,-79.4885667
+secondary,George Harvey Collegiate Institute,Grades 9-12,"1700 Keele St, York",http://schoolweb.tdsb.on.ca/georgeharvey/AboutUs.aspx,2.2,664/689,,43.6845254,-79.4737629
+secondary,George S Henry Academy,Grades 9-12,"200 Graydon Hall Dr, North York",http://www.gshenry.com/,N/A,N/A,,43.7646940,-79.3404387
+secondary,Georges Vanier Secondary School,Grades 10-12,"3000 Don Mills Rd, North York",n/a,N/A,N/A,,43.7840897,-79.3515748
+secondary,Greenwood Secondary School,Grades 9-12,"24 Mountjoy Ave, Toronto",http://greenwoodsecondaryschool.ca/,N/A,N/A,,43.6808455,-79.3305012
+secondary,Harbord Collegiate Institute,Grades 9-12,"286 Harbord St, Toronto",http://www.harbordci.ca/,8.3,41/689,,43.6615657,-79.4143834
+secondary,Heydon Park Secondary School,Grades 9-12,"70 D'Arcy St, Toronto",http://www.tmw.to/members.php?uri=heydon-park-secondary-school,N/A,N/A,,43.6549509,-79.3949777
+secondary,Humberside Collegiate Institute,Grades 9-12,"280 Quebec Ave, Toronto",http://schoolweb.tdsb.on.ca/humberside/Home.aspx,8.5,26/689,,43.6606651,-79.4707243
+secondary,Inglenook Community School,Grades 11-12,"19 Sackville St, Toronto",http://schools.tdsb.on.ca/inglenook/,N/A,N/A,,43.6540817,-79.3591859
+secondary,Jarvis Collegiate Institute,Grades 9-12,"495 Jarvis St, Toronto",http://jarviscollegiate.com/,5.1,505/689,,43.6659695,-79.3768730
+secondary,John Polanyi Collegiate Institute,Grades 9-12,"640 Lawrence Ave W, North York",http://www.jpci.ca/,N/A,N/A,,43.7179158,-79.4396002
+secondary,Kipling Collegiate Institute,Grades 9-12,"380 The Westway, Etobicoke",http://schools.tdsb.on.ca/kiplingci/,N/A,N/A,,43.6852814,-79.5629549
+secondary,L'Amoreaux Collegiate Institute,Grades 9-12,"2501 Bridletowne Cir, Scarborough",http://schoolweb.tdsb.on.ca/lamoreaux/Home.aspx,N/A,N/A,,43.8033004,-79.3176976
+secondary,Lakeshore Collegiate Institute,Grades 9-12,"350 Kipling Ave, Etobicoke",http://www.lakeshorecollegiate.ca/,N/A,N/A,,43.6008030,-79.5182499
+secondary,Lawrence Park Collegiate Institute,Grades 9-12,"125 Chatsworth Dr, Toronto",http://schoolweb.tdsb.on.ca/lawrenceparkci/Home.aspx,N/A,N/A,,43.7219736,-79.4108107
+secondary,Leaside High School,Grades 9-12,"200 Hanna Rd, East York",http://schools.tdsb.on.ca/leasidehigh/,N/A,N/A,,43.7112494,-79.3728646
+secondary,Lester B Pearson Collegiate Institute,Grades 9-12,"150 Tapscott Rd, Scarborough",http://www.pearsonci.net/,N/A,N/A,,43.8049745,-79.2265965
+secondary,Malvern Collegiate Institute,Grades 9-12,"55 Malvern Ave, Toronto",http://schools.tdsb.on.ca/malvern/,N/A,N/A,,43.6829106,-79.2930696
+secondary,Maplewood High School,Grades 9-12,"120 Galloway Rd, Scarborough",http://schoolweb.tdsb.on.ca/maplewood/Home.aspx,N/A,N/A,,43.7595017,-79.1946488
+secondary,Marc Garneau Collegiate Institute,Grades 9-12,"135 Overlea Blvd, East York",http://schools.tdsb.on.ca/marcgarneau/,N/A,N/A,,43.7082504,-79.3345656
+secondary,Martingrove Collegiate Institute,Grades 9-12,"50 Winterton Dr, Etobicoke",http://schoolweb.tdsb.on.ca/martingrove/Home.aspx,N/A,N/A,,43.6739544,-79.5604801
+secondary,Monarch Park Collegiate Institute,Grades 9-12,"1 Hanson St, Toronto",http://monarchparkcollegiate.ca/,7.7,102/689,,43.6785648,-79.3230423
+secondary,Native Learning Centre,Grades 9-12,"83 Alexander St, Toronto",n/a,n/a,n/a,,43.6634131,-79.3791940
+secondary,Native Learning Centre East,Grades 9-12,"145 Guildwood Parkway, Scarborough",n/a,n/a,n/a,,43.7466599,-79.1968171
+secondary,Nelson A Boylen Collegiate Institute,Grades 10-12,"155 Falstaff Ave, North York",http://schoolweb.tdsb.on.ca/nelsonaboylen/Home.aspx,n/a,n/a,,43.7180515,-79.4946102
+secondary,Newtonbrook Secondary School,Grades 9-12,"155 Hilda Ave, North York",http://schoolweb.tdsb.on.ca/newtonbrook/Home.aspx,N/A,N/A,,43.7938863,-79.4256790
+secondary,North Albion Collegiate Institute,Grades 9-12,"2580 Kipling Ave, Etobicoke",http://schools.tdsb.on.ca/northalbion/index.html,N/A,N/A,,43.7476682,-79.5861061
+secondary,North East Year Round Alternative Centre,Grades 9-10,"2900 Don Mills Rd, North York",n/a,n/a,n/a,,43.7822895,-79.3497506
+secondary,North Toronto Collegiate Institute,Grades 9-12,"17 Broadway Ave, Toronto",http://ntci.on.ca/,n/a,n/a,,43.7092585,-79.3966387
+secondary,North West Year Round Alternative Centre,Grades 9-10,"425 Patricia Ave, North York",n/a,n/a,n/a,,43.7843055,-79.4414072
+secondary,Northern Secondary School,Grades 9-12,"851 Mount Pleasant Rd, Toronto",http://northern-secondary.com/Joomla/,n/a,n/a,,43.7108083,-79.3896692
+secondary,Northview Heights Secondary School,Grades 9-12,"550 Finch Ave W, North York",http://www.northviewheights.ca/,n/a,n/a,,43.7733696,-79.4465163
+secondary,Oakwood Collegiate Institute,Grades 9-12,"991 St Clair Ave W, Toronto",https://sites.google.com/site/oakwoodcollegiate10/,6.5,288/689,,43.6783628,-79.4367007
+secondary,Oasis Alternative Secondary School,Grades 9-12,"20 Brant St, Toronto",http://oasisartsandsocialchangeprogram.blogspot.ca/,N/A,N/A,,43.6457182,-79.3982035
+secondary,Parkdale Collegiate Institute,Grades 9-12,"209 Jameson Ave, Toronto",http://schoolweb.tdsb.on.ca/parkdale/Home.aspx,7.0,210/689,,43.6395008,-79.4347120
+secondary,Parkview Alternative School,Grades 9-10,"1641 Pharmacy Ave, Scarborough, ON",n/a,n/a,n/a,,43.7674446,-79.3129554
+secondary,R H King Academy,Grades 9-12,"3800 St Clair Ave E, Scarborough",http://schools.tdsb.on.ca/rhking/,n/a,n/a,,43.7235048,-79.2374176
+secondary,Richview Collegiate Institute,Grades 9-12,"1738 Islington Ave, Etobicoke",n/a,n/a,n/a,,43.6783928,-79.5384990
+secondary,Riverdale Collegiate Institute,Grades 9-12,"1094 Gerrard St E, Toronto",http://schoolweb.tdsb.on.ca/riverdale/home.aspx,8.2,52/689,,43.6702676,-79.3341967
+secondary,Rosedale Heights School of the Arts,Grades 9-12,"711 Bloor St E, Toronto",http://rhsa.ca/,8.3,41/689,,43.6740007,-79.3661227
+secondary,Runnymede Collegiate Institute,Grades 9-12,"569 Jane St, York",http://schoolweb.tdsb.on.ca/runnymedeci/Home.aspx,n/a,n/a,,43.6635238,-79.4894593
+secondary,SATEC @ W A Porter Collegiate Institute,Grades 9-12,"40 Fairfax Cres, Scarborough",http://www.satecatwaporter.ca/,n/a,n/a,,43.7170453,-79.2872454
+secondary,Scarborough Centre for Alternative Studies,Grades 10-12,"720 Midland Ave, Scarborough",http://www.scasonline.com/,N/A,N/A,,43.7280969,-79.2576657
+secondary,Scarlett Heights Entrepreneurial Academy,Grades 9-12,"15 Trehorne Dr, Etobicoke",http://schoolweb.tdsb.on.ca/scarlettheights/Home.aspx,n/a,n/a,,43.6896077,-79.5308792
+secondary,School of Experiential Education,Grades 9-12,"40 McArthur St, Etobicoke",http://schoolweb.tdsb.on.ca/see/Home.aspx,N/A,N/A,,43.7015076,-79.5466180
+secondary,School of Life Experience,Grades 10-12,"24 Mountjoy Ave, Toronto",http://solealternative.ca/,N/A,N/A,,43.6808455,-79.3305012
+secondary,SEED Alternative School,Grades 11-12,"885 Dundas St E, Floor 2nd, Toronto",n/a,N/A,N/A,,43.6624277,-79.3530071
+secondary,Silverthorn Collegiate Institute,Grades 9-12,"291 Mill Rd, Etobicoke",http://www.silverthornci.com/,n/a,n/a,,43.6381568,-79.5799160
+secondary,Sir John A Macdonald Collegiate Institute,Grades 9-12,"2300 Pharmacy Ave, Scarborough",http://schoolweb.tdsb.on.ca/johnamacdonald/Home.aspx,n/a,n/a,,43.7869676,-79.3233867
+secondary,Sir Oliver Mowat Collegiate Institute,Grades 9-12,"5400 Lawrence Ave E, Scarborough",http://schoolweb.tdsb.on.ca/sirolivermowat/Home.aspx,n/a,n/a,,43.7792820,-79.1422351
+secondary,Sir Robert L Borden Business and Technical Institute,Grades 9-12,"200 Poplar Rd, Scarborough",http://www.bordenbti.ca/,n/a,n/a,,43.7635555,-79.1901934
+secondary,Sir Wilfrid Laurier Collegiate Institute,Grades 9-12,"145 Guildwood Pky, Scarborough",http://www.sirwilfridlaurierci.ca/,n/a,n/a,,43.7466599,-79.1968171
+secondary,Sir William Osler High School,Grades 9-12,"1050 Huntingwood Dr, Scarborough",http://schoolweb.tdsb.on.ca/sirwilliamosler/Home.aspx,N/A,N/A,,43.7973542,-79.2872337
+secondary,South East Year Round Alternative Centre,Grades 9-12,"720 Midland Ave, Scarborough",n/a,N/A,N/A,,43.7280969,-79.2576657
+secondary,Stephen Leacock Collegiate Institute,Grades 9-12,"2450 Birchmount Rd, Scarborough, ON",http://stephenleacock.ca/,n/a,n/a,,43.7860948,-79.3005868
+secondary,Subway Academy I,Grades 9-12,"16 Phin Ave, Toronto",http://www.subwayacademyone.com/,n/a,n/a,,43.6791507,-79.3366385
+secondary,Subway Academy II,Grades 11-12,"64 Baldwin St, Toronto",http://schoolweb.tdsb.on.ca/subwayacademy2/Home.aspx,N/A,N/A,,43.6558169,-79.3957299
+secondary,THESTUDENTSCHOOL,Grades 11-12,160 Glendonwynne Road,http://thestudentschool.org/,N/A,N/A,,43.6566234,-79.4750852
+secondary,Thistletown Collegiate Institute,Grades 9-12,"20 Fordwich Cres, Etobicoke",n/a,n/a,n/a,,43.7277887,-79.5627900
+secondary,Ursula Franklin Academy,Grades 9-12,146 Glendonwynne Rd,http://www.ufacademy.org/v6/,9.3,3/689,,43.6575152,-79.4740877
+secondary,Vaughan Road Academy,Grades 9-12,"529 Vaughan Rd, York",http://schoolweb.tdsb.on.ca/vaughanroad/Home.aspx,N/A,N/A,,43.6908260,-79.4370422
+secondary,Victoria Park Collegiate Institute,Grades 9-12,"15 Wallingford Rd, North York",http://victoriaparkci.ca/,N/A,N/A,,43.7558251,-79.3205345
+secondary,West End Alternative School,Grades 10-12,"777 Bloor St W, Floor 3, Toronto",http://westendalternativeschool.weebly.com/,N/A,N/A,,,
+secondary,West Hill Collegiate Institute,Grades 9-12,"350 Morningside Ave, Scarborough",http://schools.tdsb.on.ca/westhill/redirectpage/index.php,N/A,N/A,,43.7756240,-79.1909033
+secondary,West Humber Collegiate Institute,Grades 9-12,"1675 Martin Grove Rd, Etobicoke",http://schoolweb.tdsb.on.ca/whci/Home.aspx,N/A,N/A,,43.7312532,-79.5869789
+secondary,Western Technical-Commercial School,Grades 9-12,"125 Evelyn Cres, Toronto",http://www.wtcs.ca/,6.8,246/689,,43.6570459,-79.4746639
+secondary,Weston Collegiate Institute,Grades 9-12,"100 Pine St, York",http://westonci.ca/,N/A,N/A,,43.7036869,-79.5107007
+secondary,Westview Centennial Secondary School,Grades 9-12,"755 Oakdale Rd, North York",http://schoolweb.tdsb.on.ca/westview/Home.aspx,N/A,N/A,,43.7529597,-79.5241566
+secondary,Wexford Collegiate School for the Arts,Grades 9-12,"1176 Pharmacy Ave, Scarborough",http://www.wexfordcsa.ca/,N/A,N/A,,43.7458444,-79.3071299
+secondary,William Lyon Mackenzie Collegiate Institute,Grades 9-12,"20 Tillplain Rd, North York",http://wlmac.ca/,N/A,N/A,,43.7526737,-79.4615374
+secondary,Winston Churchill Collegiate Institute,Grades 9-12,"2239 Lawrence Ave E, Scarborough",http://schoolweb.tdsb.on.ca/churchillci/Home.aspx,N/A,N/A,,43.7487696,-79.2779528
+secondary,Woburn Collegiate Institute,Grades 9-12,"2222 Ellesmere Rd, Scarborough",http://schoolweb.tdsb.on.ca/woburnci/Home.aspx,N/A,N/A,,43.7788807,-79.2286428
+secondary,York Humber High School,Grades 9-12,"100 Emmett Ave, York",http://schoolweb.tdsb.on.ca/yorkmillsci/Home.aspx,N/A,N/A,,43.6884695,-79.5063904
+secondary,York Memorial Collegiate Institute,Grades 9-12,"2690 Eglinton Ave W, York",http://schoolweb.tdsb.on.ca/yorkmillsci/Home.aspx,6.7,260/689,,43.6910384,-79.4769079
+secondary,York Mills Collegiate Institute,Grades 10-12,"490 York Mills Rd, North York",http://schoolweb.tdsb.on.ca/yorkmillsci/Home.aspx,N/A,N/A,,43.7519123,-79.3736426
+secondary,Yorkdale Secondary School,Grades 9-12,"38 Orfus Rd, North York",http://www.yorkdale.net/,N/A,N/A,,43.7201057,-79.4600143
+secondary,Archbishop Romero Catholic School,Grades 9-12,"99 Humber Blvd, Toronto, Ontario",https://www.tcdsb.org/o/stoscarromero,1.7,674/689,,43.6804683,-79.4799974
+secondary,Bishop Allen Catholic School,Grades 9-12,"721 Royal York Rd, Toronto, Ontario",http://bishopallen.tcdsb.org,8.0,66/689,,43.6339799,-79.5044382
+secondary,Bishop Marrocco/Thomas Merton,Grades 9-12,"1515 Bloor St W, Toronto, Ontario",https://www.tcdsb.org/o/bishopmarroccothomasmerton,3.8,611/689,,43.6561188,-79.4508967
+secondary,Blessed Mother Teresa Catholic School,Grades 9-12,"40 Sewells Rd, Toronto, Ontario",http://blessedmotherteresa.tcdsb.org,3.9,606/689,,43.8094756,-79.2151875
+secondary,Brebeuf College School,Grades 9-12,"211 Steeles Ave E, Toronto, Ontario",https://www.tcdsb.org/o/brebeufcollege,6.1,357/689,,43.8019404,-79.4017228
+secondary,Collège Français,Grade 9-12,"100 Carlton rue, Toronto, Ontario",http://collegefrancais.csviamonde.ca,7.8,87/689,,43.6625046,-79.3801972
+secondary,St. Mary's Catholic Academy,Grades 9-12,"66 Dufferin Park Ave, Toronto, Ontario",http://stmarysecondary.tcdsb.org,4.6,552/689,,43.6579956,-79.4321978
+secondary,St. Patrick Catholic Secondary School,Grades 9-12,"49 Felstead Ave, Toronto, Ontario",http://stpatrick.tcdsb.org,6.1,357/689,,43.6779085,-79.3306641
+secondary,St. Joseph's College School,Grades 9-12,"74 Wellesley St W, Toronto, Ontario",http://stjosephcollege.tcdsb.org,8.1,60/689,,43.6643508,-79.3888144
+secondary,St.-Frère-André,Grades 9-12,"330 LANSDOWNE AVE, Toronto, Ontario",https://essfa.cscmonavenir.ca/,7.2,181/689,,43.6513414,-79.4416855
+secondary,Toronto Quest Secondary School,Grades 9-12,"330 Lansdowne avenue, Toronto, Ontario",http://ecolesecondairetorontoouest.csviamonde.ca,8.5,26/689,,43.6513414,-79.4416855
