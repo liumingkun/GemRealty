@@ -25,13 +25,14 @@ def get_tool_definition():
                     "description": "Type of property",
                     "enum": ["Condo", "Detached", "Semi"]
                 },
-                "city": {"type": "string", "description": "City or neighborhood name"}
+                "city": {"type": "string", "description": "City or neighborhood name"},
+                "school": {"type": "string", "description": "Search for listings near a specific school (Elementary, Intermediate, or Secondary)"}
             }
         }
     }
 
-def execute(min_price=None, max_price=None, min_beds=None, min_baths=None, property_type=None, city=None):
-    logger.info(f"Executing search_real_estate tool with params: min_price={min_price}, max_price={max_price}, min_beds={min_beds}, min_baths={min_baths}, property_type={property_type}, city={city}")
+def execute(min_price=None, max_price=None, min_beds=None, min_baths=None, property_type=None, city=None, school=None):
+    logger.info(f"Executing search_real_estate tool with params: min_price={min_price}, max_price={max_price}, min_beds={min_beds}, min_baths={min_baths}, property_type={property_type}, city={city}, school={school}")
     filtered_df = df.copy()
     
     if min_price is not None:
@@ -47,5 +48,13 @@ def execute(min_price=None, max_price=None, min_beds=None, min_baths=None, prope
         filtered_df = filtered_df[filtered_df['type'].str.fullmatch(property_type, case=False, na=False)]
     if city:
         filtered_df = filtered_df[filtered_df['city'].str.contains(city, case=False, na=False)]
+    if school:
+        # Search across Elementary, Intermediate, and Secondary columns
+        school_mask = (
+            filtered_df['Elementary'].str.contains(school, case=False, na=False) |
+            filtered_df['Intermediate'].str.contains(school, case=False, na=False) |
+            filtered_df['Secondary'].str.contains(school, case=False, na=False)
+        )
+        filtered_df = filtered_df[school_mask]
         
     return filtered_df.to_dict(orient='records')
