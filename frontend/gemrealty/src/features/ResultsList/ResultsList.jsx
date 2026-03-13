@@ -35,7 +35,7 @@ const ResultsList = () => {
       <Grid container spacing={2}>
         {results && results.length > 0 ? (
           results.map((property) => (
-            <Grid item xs={12} key={property.id || Math.random()}>
+            <Grid item xs={12} key={property.id || Math.random()} width={400}>
               <PropertyCard property={property} />
             </Grid>
           ))

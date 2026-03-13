@@ -6,14 +6,18 @@ const PropertyCard = ({ property }) => {
     <Card sx={{ width: '100%', mb: 2, display: 'flex' }}>
       <CardMedia
         component="img"
-        sx={{ width: 140 }}
-        image={property.image_url || 'https://via.placeholder.com/300x140'}
+        sx={{ width: 80, height: 80 }}
+        image={property.image_url || './public/house.png'}
         alt={property.address}
       />
       <Box sx={{ display: 'flex', flexDirection: 'column', flexGrow: 1 }}>
         <CardContent sx={{ flex: '1 0 auto', p: 1.5 }}>
           <Typography variant="h6" color="primary">
-            {property.price}
+            {new Intl.NumberFormat('en-US', {
+              style: 'currency',
+              currency: 'USD',
+              maximumFractionDigits: 0,
+            }).format(property.price)}
           </Typography>
           <Typography variant="body2" color="text.secondary">
             {property.address}
