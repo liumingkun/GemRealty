@@ -1,9 +1,33 @@
 import React from 'react';
 import { Card, CardContent, CardMedia, Typography, CardActions, Button, Box } from '@mui/material';
+import { useDispatch } from 'react-redux';
+import { setMapView, setSelectedPropertyId } from '../../store/slices/searchSlice';
 
 const PropertyCard = ({ property }) => {
+  const dispatch = useDispatch();
+
+  const handleCardClick = () => {
+    if (property.latitude && property.longitude) {
+      dispatch(setMapView({
+        center: { lat: property.latitude, lng: property.longitude },
+        zoom: 16
+      }));
+      dispatch(setSelectedPropertyId(property.id));
+    }
+  };
+
   return (
-    <Card sx={{ width: '100%', mb: 2, display: 'flex' }}>
+    <Card
+      onClick={handleCardClick}
+      sx={{
+        width: '100%',
+        mb: 2,
+        display: 'flex',
+        cursor: 'pointer',
+        transition: 'box-shadow 0.2s',
+        '&:hover': { boxShadow: 6 }
+      }}
+    >
       <CardMedia
         component="img"
         sx={{ width: 80, height: 80 }}

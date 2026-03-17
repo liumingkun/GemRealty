@@ -1,6 +1,8 @@
 import React from 'react';
 import { Provider } from 'react-redux';
-import { BrowserRouter as Router } from 'react-router-dom';
+import { BrowserRouter as Router, Routes, Route, Navigate } from 'react-router-dom';
+import Login from './pages/Login';
+import ProtectedRoute from './components/ProtectedRoute';
 import store from './store';
 import Header from './features/common/Header';
 import ChatPanel from './features/ChatPanel/ChatPanel';
@@ -28,8 +30,12 @@ function App() {
       <ThemeProvider theme={theme}>
         <CssBaseline />
         <Router>
-          <Box sx={{ display: 'flex', flexDirection: 'column', height: '100vh', overflow: 'hidden' }}>
-            <Header />
+          <Routes>
+            <Route path="/login" element={<Login />} />
+            <Route element={<ProtectedRoute />}>
+              <Route path="/" element={
+                <Box sx={{ display: 'flex', flexDirection: 'column', height: '100vh', overflow: 'hidden' }}>
+                  <Header />
             <Box sx={{ flexGrow: 1, p: 2, overflow: 'hidden' }}>
               <table style={{ width: '100%', height: '100%', borderCollapse: 'separate', borderSpacing: '16px 0', tableLayout: 'fixed' }}>
                 <tbody>
@@ -57,6 +63,10 @@ function App() {
               </table>
             </Box>
           </Box>
+              } />
+            </Route>
+            <Route path="*" element={<Navigate to="/" replace />} />
+          </Routes>
         </Router>
       </ThemeProvider>
     </Provider>
