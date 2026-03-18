@@ -44,6 +44,15 @@ class AgentEngine:
         history.append({"role": "user", "content": query})
         
         last_properties = []
+        for msg in reversed(history):
+            content = msg.get("content", "")
+            if msg.get("role") == "user" and content.startswith("Tool loop [search_real_estate] output: "):
+                try:
+                    output_str = content[len("Tool loop [search_real_estate] output: "):]
+                    last_properties = json.loads(output_str)
+                except Exception as e:
+                    logger.error(f"Error parsing last_properties from history: {e}")
+                break
         
         # Max iterations for ReAct loop
         max_iterations = 5

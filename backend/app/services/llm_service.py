@@ -38,7 +38,6 @@ class LLMService:
             "Based on the conversation history, decide your next step.\n"
             "If you need more information, call one of the tools.\n"
             "If you have enough information, provide a final answer. Do not include listing details in the final answer. Just provide a summary of the listings.\n\n"
-            "Suggest users to view the listing details on the list veiw or the map view\n"
             "Response format:\n"
             "Return ONLY a JSON object:\n"
             "{\n"

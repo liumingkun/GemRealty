@@ -61,7 +61,7 @@ const searchSlice = createSlice({
         if (!action.payload) return;
 
         state.loading = false;
-        
+
         // Normalize results to match frontend expectations
         const rawProperties = action.payload.properties || [];
         state.results = rawProperties.map(prop => ({
@@ -69,9 +69,12 @@ const searchSlice = createSlice({
           id: prop.mls_id,
           latitude: prop.lat,
           longitude: prop.lng,
-          bathrooms: prop.washrooms
+          bathrooms: prop.washrooms,
+          elementary: prop.Elementary,
+          intermediate: prop.Intermediate,
+          secondary: prop.Secondary,
         }));
-        
+
         state.sessionId = action.payload.session_id || state.sessionId;
 
         // Append assistant response to history

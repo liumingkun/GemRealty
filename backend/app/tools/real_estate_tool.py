@@ -56,5 +56,8 @@ def execute(min_price=None, max_price=None, min_beds=None, min_baths=None, prope
             filtered_df['Secondary'].str.contains(school, case=False, na=False)
         )
         filtered_df = filtered_df[school_mask]
-        
+
+    # Limit to 10 results
+    filtered_df = filtered_df.head(10)
+
     return filtered_df.to_dict(orient='records')

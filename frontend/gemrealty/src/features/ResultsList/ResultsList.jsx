@@ -34,9 +34,9 @@ const ResultsList = () => {
     <Box sx={{ flexGrow: 1, p: 2 }}>
       <Grid container spacing={2}>
         {results && results.length > 0 ? (
-          results.map((property) => (
+          results.map((property, index) => (
             <Grid item xs={12} key={property.id || Math.random()} width={400}>
-              <PropertyCard property={property} />
+              <PropertyCard property={property} index={index + 1} />
             </Grid>
           ))
         ) : (
