@@ -40,11 +40,11 @@ RUN pip install --no-cache-dir -r requirements.txt
 COPY . .
 
 # Expose the port Cloud Run uses
-EXPOSE 8080
+EXPOSE 8000
 
 # Run the FastAPI server
-# Cloud Run automatically sets the PORT environment variable to 8080
-CMD ["sh", "-c", "uvicorn main:app --host 0.0.0.0 --port ${PORT:-8080}"]
+# Cloud Run automatically sets the PORT environment variable to 8000
+CMD ["sh", "-c", "uvicorn main:app --host 0.0.0.0 --port ${PORT:-8000}"]
 ```
 
 ### 2. Deploy to Cloud Run
@@ -54,7 +54,7 @@ From inside the `backend/` directory, run the following command to build and dep
 cd backend
 gcloud run deploy gemrealty-backend \
   --source . \
-  --region us-central1 \
+  --region northamerica-northeast2 \
   --allow-unauthenticated
 ```
 *Note the Service URL returned by this command (e.g., `https://gemrealty-backend-xxx.run.app`). You will need this for the frontend.*
@@ -134,7 +134,7 @@ cd frontend/gemrealty
 # Deploy to Cloud Run
 gcloud run deploy gemrealty-frontend \
   --source . \
-  --region us-central1 \
+  --region northamerica-northeast2 \
   --allow-unauthenticated \
   --set-env-vars=VITE_GOOGLE_MAPS_API_KEY="Your-Maps-API-Key"
 ```
@@ -153,3 +153,56 @@ By now, you have two scalable microservices running on Google Cloud Run:
 1. **CORS Configuration**: Ensure your backend FastAPI `app.add_middleware(CORSMiddleware, ...)` allows the frontend's Cloud Run URL.
 2. **Custom Domains**: You can map custom domains to your Cloud Run services directly from the GCP Console (Cloud Run -> Manage Custom Domains).
 3. **Artifact Registry**: For CI/CD, you can build your container images using Podman and push them to Google Artifact Registry first, then deploy using `--image`.
+
+
+## Deploy podman images to GCP
+
+### 0. Create artifact registry
+```bash
+gcloud artifacts repositories create gemrealty-dockers \
+  --repository-format=docker \
+  --location=northamerica-northeast2 \
+  --description="GemRealty Docker images"
+
+gcloud auth configure-docker northamerica-northeast2-docker.pkg.dev
+
+```
+
+### 1. Tag the images for Google Artifact Registry
+```bash
+podman tag gemrealty-backend:v0.0.2 northamerica-northeast2-docker.pkg.dev/double-freehold-202807/gemrealty-dockers/gemrealty-backend:v0.0.2
+podman tag gemrealty-frontend:v0.0.2 northamerica-northeast2-docker.pkg.dev/double-freehold-202807/gemrealty-dockers/gemrealty-frontend:v0.0.2
+```
+
+### 2. Push the images to Google Artifact Registry
+```bash
+gcloud auth print-access-token | podman login -u oauth2accesstoken --password-stdin https://northamerica-northeast2-docker.pkg.dev
+
+podman push northamerica-northeast2-docker.pkg.dev/double-freehold-202807/gemrealty-dockers/gemrealty-backend:v0.0.2
+podman push northamerica-northeast2-docker.pkg.dev/double-freehold-202807/gemrealty-dockers/gemrealty-frontend:v0.0.2
+```
+
+### 3. Deploy to Cloud Run
+```bash
+gcloud run deploy gemrealty-backend \
+  --image northamerica-northeast2-docker.pkg.dev/double-freehold-202807/gemrealty-dockers/gemrealty-backend:v0.0.2 \
+  --region northamerica-northeast2 \
+  --allow-unauthenticated
+
+gcloud run deploy gemrealty-frontend \
+  --image northamerica-northeast2-docker.pkg.dev/double-freehold-202807/gemrealty-dockers/gemrealty-frontend:v0.0.2 \
+  --region northamerica-northeast2 \
+  --allow-unauthenticated
+```
+
+## https://gemrealty-backend-1017140935292.northamerica-northeast2.run.app
+
+## Create a bucket
+```bash
+gcloud storage buckets create gs://gemrealty-double-freehold-202807 \
+  --default-storage-class=STANDARD \
+  --location=NORTHAMERICA-NORTHEAST2 \
+  --uniform-bucket-level-access \
+  --public-access-prevention
+
+```

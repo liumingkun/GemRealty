@@ -22,6 +22,7 @@ FROM nginx:alpine
 
 # Copy our custom Nginx config
 COPY nginx.conf /etc/nginx/conf.d/default.conf
+# COPY nginx.conf /etc/nginx/templates/default.conf
 
 # Copy the built assets from stage 1
 COPY --from=build /app/dist /usr/share/nginx/html
@@ -31,3 +32,6 @@ EXPOSE 8080
 
 # Configure Nginx to listen on the PORT environment variable provided by Cloud Run
 CMD sed -i -e 's/listen       8080;/listen       '${PORT:-8080}';/g' /etc/nginx/conf.d/default.conf && nginx -g 'daemon off;'
+
+# Use envsubst to replace ${BACKEND_URL} and ${PORT} in the template and start Nginx
+# CMD envsubst '$BACKEND_URL' < nginx.conf > /etc/nginx/conf.d/default.conf && nginx -g 'daemon off;'
