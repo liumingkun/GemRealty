@@ -22,15 +22,15 @@ This document details the design and specification for the GemRealty frontend ap
 
 ### 3.3 Styling and UI
 -   **Responsive Design:** CSS Modules or Styled Components for component-level styling, coupled with a responsive design methodology (e.g., Flexbox, Grid, media queries) to ensure optimal display across various screen sizes.
--   **UI Library (Optional but Recommended):** A component library like Material UI or Ant Design can accelerate development and ensure design consistency.
+-   **UI Library:** **Material UI (MUI)** is the primary UI library used for building consistent and accessible components.
 
 ### 3.4 Build Tools
--   **Module Bundler:** Webpack (configured via Create React App or Vite)
-    -   *Rationale:* For efficient bundling of assets, code splitting, and development server capabilities.
+-   **Module Bundler:** **Vite**
+    -   *Rationale:* Vite provides a significantly faster development experience with its native ESM-based HMR and efficient build process compared to traditional bundlers like Webpack.
 
 ### 3.5 API Communication
--   **HTTP Client:** Fetch API (native browser API) or Axios
-    -   *Rationale:* For making asynchronous requests to the backend `/api/chat` endpoint.
+-   **HTTP Client:** **Axios**
+    -   *Rationale:* Axios simplifies making asynchronous requests to the backend, provides a cleaner API than the native Fetch API, and supports request/response interceptors (e.g., for adding authentication tokens).
 
 ## 4. Application Structure
 The frontend application will adopt a modular, component-based structure to promote reusability, maintainability, and scalability.
@@ -38,7 +38,7 @@ The frontend application will adopt a modular, component-based structure to prom
 ```
 /src
 ├── assets/             # Static assets like images, icons
-├── components/         # Reusable UI components (e.g., Button, Card)
+├── components/         # Reusable UI components (e.g., Button, Card, ProtectedRoute)
 ├── features/           # Feature-specific modules (e.g., ChatPanel, ResultsList, MapView)
 │   ├── ChatPanel/
 │   │   ├── ChatPanel.jsx
@@ -49,17 +49,16 @@ The frontend application will adopt a modular, component-based structure to prom
 │   ├── MapView/
 │   │   ├── MapView.jsx
 │   │   └── MapMarker.jsx
-│   └── common/         # Common feature components
+│   └── common/         # Common feature components (e.g., Header)
 ├── hooks/              # Custom React Hooks
-├── pages/              # Top-level components representing application views (e.g., HomePage)
-├── services/           # API interaction logic
-│   └── realEstateApi.js
+├── pages/              # Top-level components representing application views (e.g., HomePage, Login)
+├── services/           # API interaction logic (e.g., realEstateApi.js, authService.js)
 ├── store/              # Redux store configuration, reducers, actions
 │   ├── index.js
-│   └── slices/         # Redux slices for different state domains
+│   └── slices/         # Redux slices for different state domains (e.g., authSlice, searchSlice)
 ├── utils/              # Utility functions
-├── App.jsx             # Main application component
-├── index.js            # Entry point
+├── App.jsx             # Main application component with routing
+├── main.jsx            # Entry point
 └── index.css           # Global styles
 ```
 
@@ -105,6 +104,18 @@ The frontend application will adopt a modular, component-based structure to prom
     -   Action buttons (e.g., "View Details").
 -   **Functionality:**
     -   Interactive elements that can trigger map actions (e.g., centering the map on this property).
+    -   Displays price formatted as currency using `Intl.NumberFormat`.
+
+### 5.6 Login Page
+-   **Purpose:** Provides a secure entry point for users to authenticate.
+-   **Elements:**
+    -   Username and Password fields.
+    -   "Sign In" button with loading state.
+    -   Error alerts for invalid credentials.
+-   **Functionality:**
+    -   Dispatches login action to the `authSlice`.
+    -   Stores the JWT token in `localStorage` upon successful login.
+    -   Redirects to the home page if already authenticated or after successful login.
 
 ### 5.5 Map View
 -   **Purpose:** Visualizes search results on an interactive map.
@@ -119,14 +130,24 @@ The frontend application will adopt a modular, component-based structure to prom
     -   Updates map center and zoom level based on search results or user interaction.
     -   Synchronizes with the `ResultsList` (e.g., highlighting a property in the list when its marker is clicked).
 
-## 6. User Flows
+## 6. Authentication and User Flows
 
-### 6.1 Initial Application Load
+### 6.1 Authentication Flow
+1.  User visits the application.
+2.  `ProtectedRoute` checks for a valid token in `localStorage`.
+3.  If no token is found, the user is redirected to the `/login` page.
+4.  User enters credentials and submits the form.
+5.  `authSlice` dispatches an async thunk calling the `/api/login` endpoint.
+6.  Upon success, the token is stored in `localStorage` and the user is redirected to `/`.
+7.  Subsequent API requests include the token in the `Authorization` header via an Axios interceptor.
+
+### 6.2 Initial Application Load
 1.  User navigates to the application URL.
 2.  Frontend application initializes (React app mounts, Redux store set up).
-3.  Default view (e.g., empty search bar, empty results list, map centered on Toronto) is displayed.
+3.  Authentication status is checked.
+4.  Default view (e.g., empty search bar, empty results list, map centered on Toronto) is displayed after successful login.
 
-### 6.2 Performing a Search
+### 6.3 Performing a Search
 1.  User types a natural language query into the `Chat Panel`.
 2.  User clicks the submit button or presses Enter.
 3.  Frontend dispatches a search action.
@@ -138,7 +159,7 @@ The frontend application will adopt a modular, component-based structure to prom
 9.  `ResultsList` and `Map View` are updated with the new properties.
 10. Conversation history is managed internally by the backend, but the frontend might store a local history for display if needed.
 
-### 6.3 Interacting with Map View
+### 6.4 Interacting with Map View
 1.  User clicks on a property marker on the `Map View`.
 2.  An info window appears displaying property summary.
 3.  The corresponding `PropertyCard` in the `ResultsList` might be highlighted.
@@ -151,10 +172,7 @@ The frontend application will adopt a modular, component-based structure to prom
     ```json
     {
         "query": "find a 2-bedroom condo near the CN Tower for under $1 million",
-        "conversation_history": [
-            {"role": "user", "parts": "..."}
-            // ... previous turns for context
-        ]
+        "session_id": "unique-session-id"
     }
     ```
 -   **Response Body (JSON):**
@@ -164,7 +182,7 @@ The frontend application will adopt a modular, component-based structure to prom
             {
                 "id": "prop123",
                 "address": "123 Main St, Toronto",
-                "price": "$950,000",
+                "price": 950000,
                 "bedrooms": 2,
                 "bathrooms": 2,
                 "image_url": "...",
@@ -177,13 +195,29 @@ The frontend application will adopt a modular, component-based structure to prom
             },
             // ... other properties
         ],
-        "parsed_criteria": {
-            // Optional: for debugging or displaying extracted criteria
-        },
         "response_message": "Here are some properties matching your criteria."
     }
     ```
--   **Error Handling:** The frontend must handle various API response statuses (e.g., 200 OK, 400 Bad Request, 500 Internal Server Error) and display appropriate user feedback.
+
+-   **Endpoint:** `/api/login`
+-   **Method:** POST
+-   **Request Body (JSON):**
+    ```json
+    {
+        "username": "test",
+        "password": "testpassword"
+    }
+    ```
+-   **Response Body (JSON):**
+    ```json
+    {
+        "token": "jwt-token-string",
+        "username": "test",
+        "role": "user"
+    }
+    ```
+
+-   **Error Handling:** The frontend must handle various API response statuses (e.g., 200 OK, 401 Unauthorized, 400 Bad Request, 500 Internal Server Error) and display appropriate user feedback.
 
 ## 8. Responsiveness & Accessibility
 

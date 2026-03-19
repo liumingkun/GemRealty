@@ -8,7 +8,8 @@ export const performSearch = createAsyncThunk(
       const response = await searchProperties(query, conversationHistory, sessionId);
       return response;
     } catch (error) {
-      return rejectWithValue(error.response?.data || error.message);
+      const errorMessage = error.response?.data?.message || error.response?.data?.error || error.message;
+      return rejectWithValue(errorMessage);
     }
   }
 );

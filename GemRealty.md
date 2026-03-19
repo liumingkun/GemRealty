@@ -19,7 +19,7 @@ The frontend will be a modern, responsive application, accessible via web browse
 -   **Framework:** A JavaScript framework like **React** or **Vue.js** will be used to build a dynamic and component-based user interface. This allows for efficient rendering and state management.
 
 -   **Key UI Components:**
-    -   **Search Bar:** A prominent input field where users can type their natural language queries (e.g., "find a 2-bedroom condo near the CN Tower for under $1 million").
+    -   **Chat Panel:** A prominent input field where users can type their natural language queries (e.g., "find a 2-bedroom condo near the CN Tower for under $1 million").
     -   **Results List:** A scrollable list displaying the returned properties, with key information like price, address, and a thumbnail image.
     -   **Map View:** An interactive map (using **Google Maps API**) that displays markers for each property in the search results. Clicking a marker will show a summary of the property.
 

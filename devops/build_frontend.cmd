@@ -1,4 +1,4 @@
-CD frontend\gemrealty
+CD ..\frontend\gemrealty
 
 REM load env vars from .env file
 for /f "tokens=1* delims==" %%A in (.env) do (
@@ -18,4 +18,4 @@ podman build -t gemrealty-frontend:v0.0.2 --force-rm --build-arg VITE_GOOGLE_MAP
 podman tag gemrealty-frontend:v0.0.2 northamerica-northeast2-docker.pkg.dev/double-freehold-202807/gemrealty-dockers/gemrealty-frontend:v0.0.2
 REM podman image prune -f
 
-CD ..\..
+CD ..\..\devops

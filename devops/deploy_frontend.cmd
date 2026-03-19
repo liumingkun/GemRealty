@@ -1,4 +1,7 @@
-@echo off
+CALL build_frontend.cmd
+
+CALL push_frontend.cmd
+
 setlocal enabledelayedexpansion
 
 REM Deploy to Cloud Run
