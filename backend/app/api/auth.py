@@ -10,30 +10,21 @@ TOKEN_EXPIRE_HOURS = 24
 
 security = HTTPBearer()
 
-# Mock mock database
-users_db = {
-    "test": {
-        "username": "test",
-        "password": "test1234",
-        "role": "user",
-        "token": "test_token_123"
-    },
-    "admin": {
-        "username": "admin",
-        "password": "admin1234",
-        "role": "admin",
-        "token": "admin_token_123"
-    }
-}
+from app.database import get_db
+from app.models.user import User
+from app.models.role import Role
+from sqlalchemy.ext.asyncio import AsyncSession
+from sqlalchemy import select
 
-# Quick lookup by token
-tokens_db = {
-    user["token"]: {
-        "user": user,
-        "expires_at": datetime.now(timezone.utc) + timedelta(hours=TOKEN_EXPIRE_HOURS)
-    } 
-    for user in users_db.values()
-}
+router = APIRouter()
+
+TOKEN_EXPIRE_HOURS = 24
+
+security = HTTPBearer()
+
+# Token storage remains in-memory for simplicity for now, 
+# but could be moved to Redis or DB later
+tokens_db = {}
 
 class LoginRequest(BaseModel):
     username: str
@@ -46,22 +37,32 @@ class LoginResponse(BaseModel):
     role: str
 
 @router.post("/login", response_model=LoginResponse)
-async def login(request: LoginRequest):
-    user = users_db.get(request.username)
-    if user and user["password"] == request.password:
+async def login(request: LoginRequest, db: AsyncSession = Depends(get_db)):
+    result = await db.execute(select(User).where(User.username == request.username))
+    user = result.scalar_one_or_none()
+    
+    if user and user.password == request.password:
         token = secrets.token_urlsafe(32)
-        user["token"] = token
+        
+        # Determine the primary role for the response
+        role_name = "user"
+        if user.roles:
+            role_name = user.roles[0].name.lower()
         
         tokens_db[token] = {
-            "user": user,
+            "user": {
+                "id": user.id,
+                "username": user.username,
+                "role": role_name
+            },
             "expires_at": datetime.now(timezone.utc) + timedelta(hours=TOKEN_EXPIRE_HOURS)
         }
 
         return LoginResponse(
             message="Login successful", 
-            username=user["username"], 
+            username=user.username, 
             token=token,
-            role=user["role"]
+            role=role_name
         )
     raise HTTPException(
         status_code=status.HTTP_401_UNAUTHORIZED,

@@ -14,8 +14,8 @@ if "%VITE_GOOGLE_MAPS_API_KEY%"=="" (
 )
 
 REM build image
-podman build -t gemrealty-frontend:v0.0.2 --force-rm --build-arg VITE_GOOGLE_MAPS_API_KEY=%VITE_GOOGLE_MAPS_API_KEY% .
+podman build -t gemrealty-frontend:v0.0.2 --build-arg VITE_GOOGLE_MAPS_API_KEY=%VITE_GOOGLE_MAPS_API_KEY% .
 podman tag gemrealty-frontend:v0.0.2 northamerica-northeast2-docker.pkg.dev/double-freehold-202807/gemrealty-dockers/gemrealty-frontend:v0.0.2
-REM podman image prune -f
+podman image prune -f --filter "until=24h"
 
 CD ..\..\devops

@@ -6,3 +6,4 @@ sessions/
 tests/
 .pytest_cache/
 .vscode/
+app/data/

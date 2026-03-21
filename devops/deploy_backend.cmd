@@ -20,6 +20,8 @@ gcloud run deploy gemrealty-backend ^
   --image northamerica-northeast2-docker.pkg.dev/double-freehold-202807/gemrealty-dockers/gemrealty-backend:v0.0.2 ^
   --add-volume=name=sessions-bucket,type=cloud-storage,bucket=gemrealty-session ^
   --add-volume-mount=volume=sessions-bucket,mount-path=/app/sessions ^
+  --add-volume=name=data-bucket,type=cloud-storage,bucket=gemrealty-data ^
+  --add-volume-mount=volume=data-bucket,mount-path=/app/app/data ^
   --port=8080 ^
   --platform=managed ^
   --ingress=all ^
