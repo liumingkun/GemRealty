@@ -2,7 +2,11 @@ import React from 'react';
 import { Provider } from 'react-redux';
 import { BrowserRouter as Router, Routes, Route, Navigate } from 'react-router-dom';
 import Login from './pages/Login';
+import Register from './pages/Register';
+import Profile from './pages/Profile';
 import ProtectedRoute from './components/ProtectedRoute';
+
+
 import store from './store';
 import Header from './features/common/Header';
 import ChatPanel from './features/ChatPanel/ChatPanel';
@@ -32,6 +36,8 @@ function App() {
         <Router>
           <Routes>
             <Route path="/login" element={<Login />} />
+            <Route path="/register" element={<Register />} />
+
             <Route element={<ProtectedRoute />}>
               <Route path="/" element={
                 <Box sx={{ display: 'flex', flexDirection: 'column', height: '100vh', overflow: 'hidden' }}>
@@ -64,7 +70,14 @@ function App() {
                   </Box>
                 </Box>
               } />
+              <Route path="/profile" element={
+                <Box sx={{ display: 'flex', flexDirection: 'column', height: '100vh' }}>
+                  <Header />
+                  <Profile />
+                </Box>
+              } />
             </Route>
+
             <Route path="*" element={<Navigate to="/" replace />} />
           </Routes>
         </Router>

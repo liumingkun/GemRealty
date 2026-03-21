@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import { useDispatch, useSelector } from 'react-redux';
-import { useNavigate } from 'react-router-dom';
+import { useNavigate, Link as RouterLink } from 'react-router-dom';
 import {
   Box,
   Button,
@@ -9,8 +9,10 @@ import {
   Typography,
   Paper,
   CircularProgress,
-  Alert
+  Alert,
+  Link
 } from '@mui/material';
+
 import LockOutlinedIcon from '@mui/icons-material/LockOutlined';
 import { login, clearError } from '../store/slices/authSlice';
 
@@ -122,7 +124,13 @@ const Login = () => {
             >
               {status === 'loading' ? <CircularProgress size={24} color="inherit" /> : 'Sign In'}
             </Button>
+            <Box sx={{ display: 'flex', justifyContent: 'center' }}>
+              <Link component={RouterLink} to="/register" variant="body2">
+                Don't have an account? Register
+              </Link>
+            </Box>
           </Box>
+
         </Paper>
       </Box>
     </Container>
