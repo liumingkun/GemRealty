@@ -7,6 +7,7 @@ from app.models.base import Base
 from app.models.user import User
 from app.models.role import Role
 from app.models.user_role import UserRole
+from app.models.token import Token
 
 async def init_db():
     # Ensure the data directory exists

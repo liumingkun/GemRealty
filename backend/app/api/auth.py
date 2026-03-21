@@ -10,15 +10,13 @@ from app.models.role import Role
 from sqlalchemy.ext.asyncio import AsyncSession
 from sqlalchemy import select
 
+from app.models.token import Token
+
 router = APIRouter()
 
 TOKEN_EXPIRE_HOURS = 24
 
 security = HTTPBearer()
-
-# Token storage remains in-memory for simplicity for now, 
-# but could be moved to Redis or DB later
-tokens_db = {}
 
 class LoginRequest(BaseModel):
     username: str
@@ -110,18 +108,18 @@ async def login(request: LoginRequest, db: AsyncSession = Depends(get_db)):
         token = secrets.token_urlsafe(32)
         
         # Determine the primary role for the response
-        role_name = "user"
+        role_name = "buyer"
         if user.roles:
             role_name = user.roles[0].name.lower()
         
-        tokens_db[token] = {
-            "user": {
-                "id": user.id,
-                "username": user.username,
-                "role": role_name
-            },
-            "expires_at": datetime.now(timezone.utc) + timedelta(hours=TOKEN_EXPIRE_HOURS)
-        }
+        # Store token in database
+        new_token = Token(
+            token=token,
+            user_id=user.id,
+            expires_at=datetime.now(timezone.utc) + timedelta(hours=TOKEN_EXPIRE_HOURS)
+        )
+        db.add(new_token)
+        await db.commit()
 
         return LoginResponse(
             message="Login successful", 
@@ -135,21 +133,54 @@ async def login(request: LoginRequest, db: AsyncSession = Depends(get_db)):
         detail="Incorrect username or password",
     )
 
-async def get_current_user(credentials: HTTPAuthorizationCredentials = Depends(security)):
+async def get_current_user(
+    credentials: HTTPAuthorizationCredentials = Depends(security),
+    db: AsyncSession = Depends(get_db)
+):
     token = credentials.credentials
-    token_data = tokens_db.get(token)
     
-    if not token_data or datetime.now(timezone.utc) > token_data["expires_at"]:
+    # Query database for token
+    result = await db.execute(select(Token).where(Token.token == token))
+    token_obj = result.scalar_one_or_none()
+    
+    # Important: Convert to timezone-aware for comparison if needed, 
+    # but SQLAlchemy/SQLite might return naive datetimes.
+    # Assuming the app uses UTC everywhere.
+    now = datetime.now(timezone.utc)
+    
+    if not token_obj or now > token_obj.expires_at:
         raise HTTPException(
             status_code=status.HTTP_401_UNAUTHORIZED,
             detail="Invalid or expired authentication credentials",
             headers={"WWW-Authenticate": "Bearer"},
         )
+    
+    # Fetch user data
+    result = await db.execute(select(User).where(User.id == token_obj.user_id))
+    user = result.scalar_one_or_none()
+    
+    if not user:
+        raise HTTPException(
+            status_code=status.HTTP_401_UNAUTHORIZED,
+            detail="User not found",
+        )
+    
+    # Sliding expiry: update expires_at
+    token_obj.expires_at = now + timedelta(hours=TOKEN_EXPIRE_HOURS)
+    await db.commit()
+    
+    role_name = "buyer"
+    if user.roles:
+        role_name = user.roles[0].name.lower()
         
-    return token_data["user"]
+    return {
+        "id": user.id,
+        "username": user.username,
+        "role": role_name
+    }
 
 async def check_chat_permissions(current_user: dict = Depends(get_current_user)):
-    if current_user["role"] not in ["user", "admin"]:
+    if current_user["role"] not in ["buyer", "agent", "admin"]:
         raise HTTPException(status_code=status.HTTP_403_FORBIDDEN, detail="Not enough permissions to perform chat")
     return current_user
 
