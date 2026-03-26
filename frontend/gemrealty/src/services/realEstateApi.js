@@ -24,9 +24,26 @@ api.interceptors.response.use(
   (response) => response,
   (error) => {
     if (error.response && error.response.status === 401) {
-      alert('Session expired. Please log in again.');
+      const detail = error.response.data?.detail;
+      
+      if (detail === 'Incorrect username or password') {
+        // Let the login page handle this error
+        return Promise.reject(error);
+      }
+      
+      if (detail === 'Invalid or expired authentication credentials') {
+        alert('Session expired. Please log in again.');
+      } else if (detail === 'User not found') {
+        alert('User account not found or deactivated. Please contact support.');
+      } else {
+        alert('Authentication error. Please log in again.');
+      }
+      
       localStorage.removeItem('token');
-      window.location.href = '/login';
+      // Only redirect if we're not already on the login page
+      if (window.location.pathname !== '/login') {
+        window.location.href = '/login';
+      }
     }
     return Promise.reject(error);
   }

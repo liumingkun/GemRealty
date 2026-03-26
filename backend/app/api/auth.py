@@ -148,6 +148,9 @@ async def get_current_user(
     # Assuming the app uses UTC everywhere.
     now = datetime.now(timezone.utc)
     
+    if token_obj and token_obj.expires_at.tzinfo is None:
+        token_obj.expires_at = token_obj.expires_at.replace(tzinfo=timezone.utc)
+        
     if not token_obj or now > token_obj.expires_at:
         raise HTTPException(
             status_code=status.HTTP_401_UNAUTHORIZED,
@@ -180,7 +183,7 @@ async def get_current_user(
     }
 
 async def check_chat_permissions(current_user: dict = Depends(get_current_user)):
-    if current_user["role"] not in ["buyer", "agent", "admin"]:
+    if current_user["role"].lower() not in ["buyer", "agent", "admin"]:
         raise HTTPException(status_code=status.HTTP_403_FORBIDDEN, detail="Not enough permissions to perform chat")
     return current_user
 
